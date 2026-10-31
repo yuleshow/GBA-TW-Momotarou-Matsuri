@@ -1,0 +1,31 @@
+Silver, a font for games
+Author: Poppy Works, Wolfgang Wozniak
+Official source: https://poppyworks.itch.io/silver
+License information retrieved: 2026-09-23
+
+Upstream credits:
+Major Contributors: Itou Hiro (PixelMPlus), leedheo (DOSGothic), Buchi
+https://itouhiro.hatenablog.com/entry/20130602/font
+https://github.com/hurss/fonts/blob/master/ttf/DOSGothic.ttf
+https://skeb.jp/@Buchidot
+
+The official page lists Attribution 4.0 International (CC BY 4.0):
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+The official page also states:
+"However, if the budget of your production exceeds $100,000 USD in total spend
+or earnings, or if you require urgent support, please contact hello@poppy.works
+to license this font."
+
+The author requests an email when the font is used in a game.
+Consult the official page and author for applicable licensing requirements.
+
+Project adaptation: Silver is rasterized at 11pt with grayscale coverage,
+then thresholded into monochrome 8x8 GBA glyph tiles (normally at 96/255,
+or the glyph's peak coverage for tiny marks). This is a reduced-size adaptation, not the
+font's native pixel size. The supplied TTF is not modified. No endorsement
+by the font authors is implied. Retain this attribution with distributed patches.
+
+TTF SHA-256:
+d7a15f3eef3f67809b2ca6c1f457fbbc7b86defdee8d7704f4136adf7c3d532e

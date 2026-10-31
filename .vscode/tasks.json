@@ -1,0 +1,163 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "Build Chinese font rasterizer",
+			"type": "shell",
+			"command": "swiftc",
+			"args": [
+				"tools/rasterize-font.swift",
+				"-o",
+				"build/rasterize-font"
+			],
+			"isBackground": false,
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": "build"
+		},
+		{
+			"label": "Test Chinese localization",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"--test",
+				"--test-reporter=tap",
+				"tools/rom.test.mjs",
+				"tools/original-layout.test.mjs",
+				"tools/large-text.test.mjs"
+			],
+			"isBackground": false,
+			"group": "test",
+			"problemMatcher": []
+		},
+		{
+			"label": "Verify arithmetic number fix",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"tools/score-fix.test.mjs",
+				"build/score-fix-P61K4j/momotarou-zh-Hant",
+				"--arithmetic"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Install arithmetic fix on handheld",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"build/install-arithmetic-trial.mjs"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Verify handheld arithmetic deployment",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"build/install-arithmetic-trial.mjs",
+				"--verify"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Verify G font arithmetic",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"tools/score-fix.test.mjs",
+				"build/score-fix-miseki-QCwnps/momotarou-zh-Hant",
+				"--arithmetic"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Verify G font dialogue",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"tools/score-fix.test.mjs",
+				"build/score-fix-miseki-QCwnps/momotarou-zh-Hant"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Install G font on handheld",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"build/install-arithmetic-trial.mjs",
+				"--miseki"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Verify installed G font",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"build/install-arithmetic-trial.mjs",
+				"--miseki",
+				"--verify"
+			],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Verify I font arithmetic trial",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"tools/score-fix.test.mjs",
+				"build/score-fix-hand-I-TAXO6E/momotarou-zh-Hant",
+				"--arithmetic"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "test"
+		},
+		{
+			"label": "Verify I font dialogue trial",
+			"type": "shell",
+			"command": "node",
+			"args": [
+				"tools/score-fix.test.mjs",
+				"build/score-fix-hand-I-TAXO6E/momotarou-zh-Hant"
+			],
+			"isBackground": false,
+			"problemMatcher": [],
+			"group": "test"
+		},
+		{
+			"label": "Preflight I font installation",
+			"type": "shell",
+			"command": "node",
+			"args": ["build/install-arithmetic-trial.mjs", "--hand-dialogue", "--preflight"],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Install I font on handheld",
+			"type": "shell",
+			"command": "node",
+			"args": ["build/install-arithmetic-trial.mjs", "--hand-dialogue"],
+			"isBackground": false,
+			"problemMatcher": []
+		},
+		{
+			"label": "Verify installed I font",
+			"type": "shell",
+			"command": "node",
+			"args": ["build/install-arithmetic-trial.mjs", "--hand-dialogue", "--verify"],
+			"isBackground": false,
+			"problemMatcher": []
+		}
+	]
+}

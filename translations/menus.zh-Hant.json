@@ -1,0 +1,27 @@
+{
+  "sourceSha256": "938fa27a934ac3f4fa93d4d9e49bd538c2fb41040d0f7a8b2de6343a406f82d3",
+  "language": "zh-Hant",
+  "status": "prototype-needs-review",
+  "entries": [
+    { "offset": "163ef3", "source": "はじめて", "translation": "開始遊戲" },
+    { "offset": "163ef8", "source": "つづき", "translation": "繼續遊戲" },
+    { "offset": "163efc", "source": "きろくをけす", "translation": "刪除存檔" },
+    { "offset": "163a43", "source": "どうぐ", "translation": "道具" },
+    { "offset": "163a47", "source": "だいじなもの", "translation": "重要物品" },
+    { "offset": "163a57", "source": "ステ-タス", "translation": "狀態" },
+    { "offset": "163a5d", "source": "せりふ", "translation": "對話" },
+    { "offset": "163a61", "source": "セ-ブ", "translation": "存檔" },
+    { "offset": "163a6d", "source": "はやあし", "translation": "疾行" },
+    { "offset": "163a72", "source": "ふつう", "translation": "普通" },
+    { "offset": "163a76", "source": "まっは", "translation": "極速" },
+    { "offset": "163a7a", "source": "はやい", "translation": "快" },
+    { "offset": "163a7e", "source": "ふつう", "translation": "普通" },
+    { "offset": "163a82", "source": "おそい", "translation": "慢" },
+    { "offset": "163a86", "source": "セ-ブして つづける", "translation": "存檔並繼續" },
+    { "offset": "163a91", "source": "セ-ブして  おわる", "translation": "存檔並結束" },
+    { "offset": "163a9c", "source": "セ-ブせずに おわる", "translation": "不存檔結束" },
+    { "offset": "163aa7", "source": "もどる", "translation": "返回" },
+    { "offset": "163ee7", "source": "はい", "translation": "是" },
+    { "offset": "163eea", "source": "いいえ", "translation": "否" }
+  ]
+}

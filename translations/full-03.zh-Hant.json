@@ -1,0 +1,2931 @@
+{
+  "language": "zh-Hant",
+  "status": "full-draft-needs-gameplay-review",
+  "entries": [
+    {
+      "offset": "130031",
+      "translation": "可以詳細查看\n\n<KANJI:80><KANJI:81><KANJI:82>的狀態！",
+      "status": "translated-draft",
+      "sourceHex": "058005810582792094ae637062600a0a688c6c682080896a748e209b677f6d21",
+      "pointerOffsets": [
+        1247028
+      ]
+    },
+    {
+      "offset": "1301f9",
+      "translation": "這是美麗的乙姬所住的\n\n海底城堡喔！",
+      "status": "translated-draft",
+      "sourceHex": "6372686c62206574058d792062890a0a638079206f6a7920656c8b9b6d8621",
+      "pointerOffsets": [
+        1247188
+      ]
+    },
+    {
+      "offset": "1302bc",
+      "translation": "美麗的輝夜姬\n\n就靜靜住在這座村子裡喔！",
+      "status": "translated-draft",
+      "sourceHex": "6372686c6220669084058d8e0a0a7baf6f88742068876c73628905929b6d8621",
+      "pointerOffsets": [
+        1247212
+      ]
+    },
+    {
+      "offset": "130471",
+      "translation": "記錄至今的旅程，\n\n好好休息吧！",
+      "status": "translated-draft",
+      "sourceHex": "627f7f9b7920709e7920678b6860207269730a0a65846d80756b6221",
+      "pointerOffsets": [
+        1247412
+      ]
+    },
+    {
+      "offset": "13053e",
+      "translation": "\n\n想悠閒地\n\n繼續旅行時，請選這個！",
+      "status": "translated-draft",
+      "sourceHex": "0a0a798d9e8820709e600a0a729a697062746776209c639721",
+      "pointerOffsets": [
+        1247324
+      ]
+    },
+    {
+      "offset": "130656",
+      "translation": "<09><1B>那麼，重新請問您，\n\n有什麼需要嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6f8a9b7a20618770827f6c730a0a209c8d75209286639b6d663f1d09",
+      "pointerOffsets": [
+        7960
+      ]
+    },
+    {
+      "offset": "130c27",
+      "translation": "岩手縣\n 4<KANJI:AC><KANJI:88><KANJI:AB>",
+      "status": "translated-draft",
+      "sourceHex": "628c73698d0a203405ac058805ab",
+      "pointerOffsets": [
+        1251088
+      ]
+    },
+    {
+      "offset": "130c9b",
+      "translation": "竿燈祭",
+      "status": "translated-draft",
+      "sourceHex": "668d74637f7288",
+      "pointerOffsets": [
+        1251264
+      ]
+    },
+    {
+      "offset": "130cbd",
+      "translation": "秋田縣\n 8<KANJI:AC><KANJI:AA><KANJI:AB>",
+      "status": "translated-draft",
+      "sourceHex": "616770698d0a203805ac05aa05ab",
+      "pointerOffsets": [
+        1251304
+      ]
+    },
+    {
+      "offset": "130d2e",
+      "translation": "山形縣\n 2<KANJI:AC><KANJI:AA><KANJI:AB>",
+      "status": "translated-draft",
+      "sourceHex": "847f8e70698d0a203205ac05aa05ab",
+      "pointerOffsets": [
+        1251484
+      ]
+    },
+    {
+      "offset": "130dd4",
+      "translation": "栃木縣\n 5<KANJI:AC><KANJI:AA><KANJI:AB>",
+      "status": "translated-draft",
+      "sourceHex": "74718f698d0a203505ac05aa05ab",
+      "pointerOffsets": [
+        1251700
+      ]
+    },
+    {
+      "offset": "130e70",
+      "translation": "三社祭",
+      "status": "translated-draft",
+      "sourceHex": "6b8d94ac7f7288",
+      "pointerOffsets": [
+        1251948
+      ]
+    },
+    {
+      "offset": "130e88",
+      "translation": "神田祭",
+      "status": "translated-draft",
+      "sourceHex": "668d987f7288",
+      "pointerOffsets": [
+        1251984
+      ]
+    },
+    {
+      "offset": "130e8f",
+      "translation": "東京都\n 5<KANJI:AC><KANJI:87><KANJI:AB>",
+      "status": "translated-draft",
+      "sourceHex": "746367ae63740a203505ac058705ab",
+      "pointerOffsets": [
+        1251988
+      ]
+    },
+    {
+      "offset": "130f3d",
+      "translation": "伴旗祭",
+      "status": "translated-draft",
+      "sourceHex": "74839d707f7288",
+      "pointerOffsets": [
+        1252236
+      ]
+    },
+    {
+      "offset": "130f64",
+      "translation": "石川縣\n 5<KANJI:AC><KANJI:87><KANJI:AB>",
+      "status": "translated-draft",
+      "sourceHex": "626c668c698d0a203505ac058705ab",
+      "pointerOffsets": [
+        1252276
+      ]
+    },
+    {
+      "offset": "131000",
+      "translation": "長野縣\n 4<KANJI:AC><KANJI:87><KANJI:AB>",
+      "status": "translated-draft",
+      "reason": "原 ROM sourceTokens 核對：131000 是母句 130fff 的 token 邊界，共用 13100d 終止符。母句明示長野縣及其數字標籤；殘缺縣名依母句譯出。 原 sourceHex、pointerOffsets 與母句關係不變；實際指標呼叫用途及遊戲畫面未驗證。",
+      "sourceHex": "8e79698d0a203405ac058705ab",
+      "pointerOffsets": [
+        1051948
+      ],
+      "boundaryEvidence": {
+        "kind": "interior-of-referenced-text",
+        "containerOffset": "130fff",
+        "containerPointerOffsets": [
+          1252492
+        ],
+        "terminatorOffset": "13100d",
+        "sourceValidatedAgainstOriginalRom": true,
+        "pointerOwnershipVerified": false
+      },
+      "suffixReview": {
+        "status": "reviewed-token-aligned-suffix",
+        "parentOffset": "130fff",
+        "tokenBoundaryValidated": true,
+        "sharedTerminatorValidated": true,
+        "contextBasis": "母句明示長野縣及其數字標籤；殘缺縣名依母句譯出。",
+        "gameplayVerified": false
+      }
+    },
+    {
+      "offset": "13109f",
+      "translation": "津島天王祭",
+      "status": "translated-draft",
+      "sourceHex": "726c7f738d79637f7288",
+      "pointerOffsets": [
+        1252740
+      ]
+    },
+    {
+      "offset": "1310c1",
+      "translation": "三重縣\n 1<KANJI:AC>1<KANJI:AD>",
+      "status": "translated-draft",
+      "sourceHex": "8064698d0a203105ac3105ad",
+      "pointerOffsets": [
+        1252780
+      ]
+    },
+    {
+      "offset": "131137",
+      "translation": "京都府\n 7<KANJI:AC><KANJI:AA>",
+      "status": "translated-draft",
+      "sourceHex": "67ae63747c0a203705ac05aa",
+      "pointerOffsets": [
+        1252960
+      ]
+    },
+    {
+      "offset": "1311c0",
+      "translation": "姬路灘祭",
+      "status": "translated-draft",
+      "sourceHex": "7b829475987f7288",
+      "pointerOffsets": [
+        1253172
+      ]
+    },
+    {
+      "offset": "1311d9",
+      "translation": "神戶祭",
+      "status": "translated-draft",
+      "sourceHex": "6a63a07f7288",
+      "pointerOffsets": [
+        1253208
+      ]
+    },
+    {
+      "offset": "1311f0",
+      "translation": "赤穗義士祭",
+      "status": "translated-draft",
+      "sourceHex": "616a638f6c6b62",
+      "pointerOffsets": [
+        1253244
+      ]
+    },
+    {
+      "offset": "131208",
+      "translation": "東大寺二月堂修二會",
+      "status": "translated-draft",
+      "sourceHex": "7463986294768e729c636cad637664",
+      "pointerOffsets": [
+        1050772,
+        1253280
+      ]
+    },
+    {
+      "offset": "131241",
+      "translation": "薪御能",
+      "status": "translated-draft",
+      "sourceHex": "70678f657963",
+      "pointerOffsets": [
+        1253352
+      ]
+    },
+    {
+      "offset": "131266",
+      "translation": "奈良縣\n 6<KANJI:AC><KANJI:AA><KANJI:AB>",
+      "status": "translated-draft",
+      "sourceHex": "7587698d0a203605ac05aa05ab",
+      "pointerOffsets": [
+        1253392
+      ]
+    },
+    {
+      "offset": "131309",
+      "translation": "岡山桃太郎祭",
+      "status": "translated-draft",
+      "sourceHex": "6566847f8383708b637f7288",
+      "pointerOffsets": [
+        1253640
+      ]
+    },
+    {
+      "offset": "13132f",
+      "translation": "廣島縣\n 6<KANJI:AC><KANJI:87><KANJI:AB>",
+      "status": "translated-draft",
+      "sourceHex": "7b8b6c7f698d0a203605ac058705ab",
+      "pointerOffsets": [
+        1253680
+      ]
+    },
+    {
+      "offset": "1313e7",
+      "translation": "西條祭",
+      "status": "translated-draft",
+      "sourceHex": "6b6294ae637f7288",
+      "pointerOffsets": [
+        1253928
+      ]
+    },
+    {
+      "offset": "131407",
+      "translation": "愛媛縣\n 7<KANJI:AC><KANJI:88><KANJI:AB>",
+      "status": "translated-draft",
+      "sourceHex": "647b82698d0a203705ac058805ab",
+      "pointerOffsets": [
+        1253968
+      ]
+    },
+    {
+      "offset": "1314ab",
+      "translation": "長崎宮日祭",
+      "status": "translated-draft",
+      "sourceHex": "758e6b67688d71",
+      "pointerOffsets": [
+        1254216
+      ]
+    },
+    {
+      "offset": "1314cc",
+      "translation": "長崎縣\n 8<KANJI:AC><KANJI:AA><KANJI:AB>",
+      "status": "translated-draft",
+      "sourceHex": "758e6b67698d0a203805ac05aa05ab",
+      "pointerOffsets": [
+        1254256
+      ]
+    },
+    {
+      "offset": "13156c",
+      "translation": "沖繩縣\n 8<KANJI:AC><KANJI:88><KANJI:AB>",
+      "status": "translated-draft",
+      "sourceHex": "6567758c698d0a203805ac058805ab",
+      "pointerOffsets": [
+        1254472
+      ]
+    },
+    {
+      "offset": "132cfc",
+      "translation": "<09><1B>替您保管\n\n<FMT:%s>，可以嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b2573600a0a2065619566886c7320868b6c629b6d663f1d09",
+      "pointerOffsets": [
+        36972
+      ],
+      "formatEvidence": {
+        "sourceFormats": [
+          "<FMT:%s>"
+        ],
+        "pointerOffsets": [
+          36972
+        ],
+        "maximumExpansionVerified": true,
+        "previousBlockReason": "原 ROM sourceHex、NUL 邊界及完整指標清單已核對；格式依原順序為 <FMT:%s>。字串參數最大編碼長度、可見寬度、內含換行/控制碼及格式化緩衝區的呼叫點證據尚缺，無法保證展開後 <=680 bytes、每行 <=24 欄。%6s/%9s 等欄寬只是最小寬度，不是長度上限；不改 source args、不刪參數、不以靜態字數冒充安全證明。保留完整譯文、來源及指標。",
+        "engineValidation": "Current validateDialogueEntry strict check passed with all owned translated drafts selected; original-ROM hash, caller pointer inventory, finite argument pools and translated name variants validated by boundedStringArguments.",
+        "argumentBounds": [
+          {
+            "variants": 82,
+            "maxEncodedBytes": 18,
+            "maxVisibleColumns": 6,
+            "maxFormatterMeasuredLength": 18
+          }
+        ],
+        "gameplayVerified": false,
+        "previousRequirement": "Per-call-site argument provenance, maximum encoded length and visible width, newline/control behavior, and total buffer bound."
+      }
+    },
+    {
+      "offset": "132e16",
+      "translation": "<09><1B>請問您\n\n要提領多少呢？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6268870a0a20657b67986c762075887f6d663f1d09",
+      "pointerOffsets": [
+        36560
+      ]
+    },
+    {
+      "offset": "132f27",
+      "translation": "<09><1B>您要領取\n\n<FMT:%s>，對嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b2573790a0a2065636974889b20868b6c629b6d663f1d09",
+      "pointerOffsets": [
+        37304
+      ],
+      "formatEvidence": {
+        "sourceFormats": [
+          "<FMT:%s>"
+        ],
+        "pointerOffsets": [
+          37304
+        ],
+        "maximumExpansionVerified": true,
+        "previousBlockReason": "原 ROM sourceHex、NUL 邊界及完整指標清單已核對；格式依原順序為 <FMT:%s>。字串參數最大編碼長度、可見寬度、內含換行/控制碼及格式化緩衝區的呼叫點證據尚缺，無法保證展開後 <=680 bytes、每行 <=24 欄。%6s/%9s 等欄寬只是最小寬度，不是長度上限；不改 source args、不刪參數、不以靜態字數冒充安全證明。保留完整譯文、來源及指標。",
+        "engineValidation": "Current validateDialogueEntry strict check passed with all owned translated drafts selected; original-ROM hash, caller pointer inventory, finite argument pools and translated name variants validated by boundedStringArguments.",
+        "argumentBounds": [
+          {
+            "variants": 82,
+            "maxEncodedBytes": 18,
+            "maxVisibleColumns": 6,
+            "maxFormatterMeasuredLength": 18
+          }
+        ],
+        "gameplayVerified": false,
+        "previousRequirement": "Per-call-site argument provenance, maximum encoded length and visible width, newline/control behavior, and total buffer bound."
+      }
+    },
+    {
+      "offset": "132f5d",
+      "translation": "<09><1B>謝謝惠顧，\n\n歡迎再度光臨<0D><1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b61888e74639293627f6c700a0a207f707920656a6c600d1d09",
+      "pointerOffsets": [
+        37680
+      ]
+    },
+    {
+      "offset": "13306c",
+      "translation": "您是第一次光臨吧！\n\n<KANJI:80><KANJI:81><KANJI:82>先生！<1D><09>\n\n<1B>現在十一屋正在舉辦\n\n贈送祭典卡片的<1D><09>\n\n<1B>祭典卡片活動，\n\n歡迎參加！<1D><09>\n\n<1B>只要存款\n\n達到一定金額，<1D><09>\n\n<1B>就能獲得\n\n一張祭典卡片！<1D><09>\n\n<1B>這就是我們\n\n這次的活動內容！<1D><09>\n\n<1B>您是第一次使用本店服務，\n\n先送您一張祭典卡片！<1D><09>",
+      "status": "translated-draft",
+      "reason": "原 ROM sourceTokens 核對：13306c 是母句 133067 的 token 邊界，共用 133149 終止符。母句明示首次使用存款服務及贈卡活動；補足殘缺的首次使用語意。 原 sourceHex、pointerOffsets 與母句關係不變；實際指標呼叫用途及遊戲畫面未驗證。",
+      "sourceHex": "737920928886639b6d78210a0a200580058105826b8d211d090a0a1b7098627f2074627105a89b7a0a0a20657f7288b62dec8e20838764891d090a0a1b657f7288b62decb7fcddf52ddd600a0a20656a75af732065887f6d211d090a0a1b656195668898668e0a0a20618920678d8e68762075887f6d741d090a0a1b6a8a8e20758d74210a0a20657f7288b62dec6020317f6295721d090a0a1b65689d886d89207462630a0a20b7fcddf52ddd75799b6d211d090a0a1b7f95207a94827379209288866375799b0a0a2031058c20657f7288b62dec60209c6397211d09",
+      "pointerOffsets": [
+        353488
+      ],
+      "boundaryEvidence": {
+        "kind": "interior-of-referenced-text",
+        "containerOffset": "133067",
+        "containerPointerOffsets": [
+          35288
+        ],
+        "terminatorOffset": "133149",
+        "sourceValidatedAgainstOriginalRom": true,
+        "pointerOwnershipVerified": false
+      },
+      "suffixReview": {
+        "status": "reviewed-token-aligned-suffix",
+        "parentOffset": "133067",
+        "tokenBoundaryValidated": true,
+        "sharedTerminatorValidated": true,
+        "contextBasis": "母句明示首次使用存款服務及贈卡活動；補足殘缺的首次使用語意。",
+        "gameplayVerified": false
+      }
+    },
+    {
+      "offset": "133564",
+      "translation": "<09><1B>歡迎光臨！\n\n決定好要點什麼了嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6287af6cac627f6e210a0a209271ad63838d7a2065677f889b6d663f1d09",
+      "pointerOffsets": [
+        43772
+      ]
+    },
+    {
+      "offset": "1336e2",
+      "translation": "<09>竟然！\n\n <09>\n\n<KANJI:80><KANJI:81><KANJI:82>吃河豚中毒，\n\n就這樣死掉了！<09>",
+      "status": "translated-draft",
+      "sourceHex": "09758d74210a0a20090a0a0580058105827a20cce0760a0a6170af73206c8d9b6c7faf702109",
+      "pointerOffsets": [
+        43208
+      ]
+    },
+    {
+      "offset": "133981",
+      "translation": "<09><1B>期待您\n\n再次光臨。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b7f707920656a6c600a0a20657f716c7365887f6d1d09",
+      "pointerOffsets": [
+        43340,
+        44092
+      ]
+    },
+    {
+      "offset": "1339b2",
+      "translation": "<09><1B>歡迎光臨！\n\n旅途辛苦了！<1D><09>\n\n<1B>一晚<FMT:%d><KANJI:8B>，\n\n要住宿嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6287af6cac627f6e210a0a206572668a9b6cae63211d090a0a1b7b749d8d202564058b9b6d8e0a0a2065747f88762075887f6d663f1d09",
+      "pointerOffsets": [
+        34788
+      ]
+    },
+    {
+      "offset": "133abe",
+      "translation": "<09><1B>這樣啊！\n\n住旅店果然少不了這個！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6f639b6d66210a0a2084afa28820849c9b7a206a8a9b6d75211d09",
+      "pointerOffsets": [
+        254164
+      ]
+    },
+    {
+      "offset": "133b7e",
+      "translation": "<09><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n您的錢不夠呀。<1D><09>\n\n<1B>等賺到錢，\n\n再來光顧吧。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b0580058105826b8d212065059a8e0a0a207088756294ac2061887f6e8d661d090a0a1b666e629b66870a0a207f7020677368986b62751d09",
+      "pointerOffsets": [
+        34104
+      ]
+    },
+    {
+      "offset": "133d7f",
+      "translation": "<09><1B><KANJI:80><KANJI:81><KANJI:82>，\n\n您要賣什麼給我呢？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b0580058105826b8d0a0a207576602063af73838764898d9b6d663f1d09",
+      "pointerOffsets": [
+        34460
+      ]
+    },
+    {
+      "offset": "13419f",
+      "translation": "芭蕉果        0<KANJI:8B>",
+      "status": "translated-draft",
+      "sourceHex": "9d6cae637980202020202020202030058b",
+      "pointerOffsets": [
+        1268712
+      ]
+    },
+    {
+      "offset": "13420b",
+      "translation": "不管多麼無精打采，\n\n有了它就能精神百倍！",
+      "status": "translated-draft",
+      "sourceHex": "9c8d757620918d6779207562058f9b830a0a6a8a6b64618a9d20918d67203130309d6221",
+      "pointerOffsets": [
+        1268384
+      ]
+    },
+    {
+      "offset": "1342f3",
+      "translation": "上面寫著\n\n製作腹痛藥的材料！",
+      "status": "translated-draft",
+      "sourceHex": "7a87627079b8bdd8790a0a936288ae638e2066668a73627f6d21",
+      "pointerOffsets": [
+        1268396
+      ]
+    },
+    {
+      "offset": "1343b1",
+      "translation": "柿<KANJI:81><KANJI:82>的信      0<KANJI:8B>",
+      "status": "translated-draft",
+      "sourceHex": "b6b70581058279738e8020202020202030058b",
+      "pointerOffsets": [
+        1268740
+      ]
+    },
+    {
+      "offset": "134494",
+      "translation": "遊戲羽衣      0<KANJI:8B>",
+      "status": "translated-draft",
+      "sourceHex": "85638f797a928b8320202020202030058b",
+      "pointerOffsets": [
+        1268752
+      ]
+    },
+    {
+      "offset": "13451c",
+      "translation": "櫻桃         0<KANJI:8B>",
+      "status": "translated-draft",
+      "sourceHex": "bbb8d7ddf120202020202020202030058b",
+      "pointerOffsets": [
+        1268760
+      ]
+    },
+    {
+      "offset": "1345d6",
+      "translation": "至今收集到的祭典卡片，\n\n都能用這個來欣賞！",
+      "status": "translated-draft",
+      "sourceHex": "627f7f9b206172827020657f7288b62dec7a0a0a6a8a9b2080896a748e9b677f6d21",
+      "pointerOffsets": [
+        1268436
+      ]
+    },
+    {
+      "offset": "1346a9",
+      "translation": "勇氣之證       0<KANJI:8B>",
+      "status": "translated-draft",
+      "sourceHex": "856367796c896c2020202020202030058b",
+      "pointerOffsets": [
+        1269112
+      ]
+    },
+    {
+      "offset": "134770",
+      "translation": "醋昆布",
+      "status": "translated-draft",
+      "sourceHex": "6d6a8d9f",
+      "pointerOffsets": [
+        1268132
+      ]
+    },
+    {
+      "offset": "134799",
+      "translation": "總覺得\n\n有種懷念的滋味。 <0D>1<KANJI:9E>",
+      "status": "translated-draft",
+      "sourceHex": "758d98660a0a7572666c622061948c6220202020200d31059e",
+      "pointerOffsets": [
+        1268460
+      ]
+    },
+    {
+      "offset": "1348b1",
+      "translation": "滿滿的紅豆粒餡，\n\n吃多少都不會膩！ <0D>1<KANJI:9E>",
+      "status": "translated-draft",
+      "sourceHex": "729f618d2070afa4880a0a6268879b832070a0878a6f632120200d31059e",
+      "pointerOffsets": [
+        1268476
+      ]
+    },
+    {
+      "offset": "134a69",
+      "translation": "開花村製作的\n\n名產櫻餅。 <0D>1<KANJI:9E>",
+      "status": "translated-draft",
+      "sourceHex": "7a756b667905929b207268af700a0a826266206b688783712020202020200d31059e",
+      "pointerOffsets": [
+        1268500
+      ]
+    },
+    {
+      "offset": "134bb0",
+      "translation": "棉花糖",
+      "status": "translated-draft",
+      "sourceHex": "8c708e6c",
+      "pointerOffsets": [
+        1268192
+      ]
+    },
+    {
+      "offset": "134bf8",
+      "translation": "巧克力香蕉",
+      "status": "translated-draft",
+      "sourceHex": "c1febaedc5c5",
+      "pointerOffsets": [
+        1268196
+      ]
+    },
+    {
+      "offset": "134bff",
+      "translation": "巧克力香蕉      100<KANJI:8B>",
+      "status": "translated-draft",
+      "sourceHex": "c1febaedc5c5202020202020313030058b",
+      "pointerOffsets": [
+        1268856
+      ]
+    },
+    {
+      "offset": "134cd8",
+      "translation": "烤魷魚",
+      "status": "translated-draft",
+      "sourceHex": "b2b68467",
+      "pointerOffsets": [
+        1268208
+      ]
+    },
+    {
+      "offset": "134d20",
+      "translation": "玉米",
+      "status": "translated-draft",
+      "sourceHex": "c4b3d3dbbabc",
+      "pointerOffsets": [
+        1268212
+      ]
+    },
+    {
+      "offset": "134d69",
+      "translation": "御好燒",
+      "status": "translated-draft",
+      "sourceHex": "656a79808467",
+      "pointerOffsets": [
+        1268216
+      ]
+    },
+    {
+      "offset": "134d70",
+      "translation": "御好燒      160<KANJI:8B>",
+      "status": "translated-draft",
+      "sourceHex": "656a79808467202020202020313630058b",
+      "pointerOffsets": [
+        1268876
+      ]
+    },
+    {
+      "offset": "134e8b",
+      "translation": "茄子",
+      "status": "translated-draft",
+      "sourceHex": "756d9e",
+      "pointerOffsets": [
+        1268232
+      ]
+    },
+    {
+      "offset": "134eb3",
+      "translation": "秋茄子要和大家\n\n和和氣氣一起吃！ <0D>1<KANJI:9E>",
+      "status": "translated-draft",
+      "sourceHex": "6167756d9e7a20808d759b0a0a756686682070a07f6cae63212020200d31059e",
+      "pointerOffsets": [
+        1268560
+      ]
+    },
+    {
+      "offset": "135088",
+      "translation": "堇菜",
+      "status": "translated-draft",
+      "sourceHex": "6d808a",
+      "pointerOffsets": [
+        1268260
+      ]
+    },
+    {
+      "offset": "1350b0",
+      "translation": "花語\n\n「小小的幸福」 <0D>1<KANJI:9E>",
+      "status": "translated-draft",
+      "sourceHex": "7a756a749d0a0a2d71626b75206c618c6e2d202020200d31059e",
+      "pointerOffsets": [
+        1268588
+      ]
+    },
+    {
+      "offset": "1351c3",
+      "translation": "花語\n\n「虛假」 <0D>1<KANJI:9E>",
+      "status": "translated-draft",
+      "sourceHex": "7a756a749d0a0a2d62728c882d2020202020202020200d31059e",
+      "pointerOffsets": [
+        1268604
+      ]
+    },
+    {
+      "offset": "135372",
+      "translation": "漫畫、附錄、遊戲情報，\n\n內容豐富，看得過癮！ <0D>1<KANJI:9E>",
+      "status": "translated-draft",
+      "sourceHex": "cfddde207c8b6820e12dd194ae637e630a0a86809270642070afa48821202020200d31059e",
+      "pointerOffsets": [
+        1268628
+      ]
+    },
+    {
+      "offset": "1354bf",
+      "translation": "會發出叮咚的聲音。\n\n使用後就會<0D> <0D>?<KANJI:9E>",
+      "status": "translated-draft",
+      "sourceHex": "f3ddf62ddd742065748e206c7f6d0a0a6a8a6020726663740d2020202020200d3f059e",
+      "pointerOffsets": [
+        1268644
+      ]
+    },
+    {
+      "offset": "1355f9",
+      "translation": "往返兔龜村與竹取村的\n\n渡船船票。",
+      "status": "translated-draft",
+      "sourceHex": "b3bbb6d2790592742070697488790592600a0a727590207c78792067afa4",
+      "pointerOffsets": [
+        1268660
+      ]
+    },
+    {
+      "offset": "135714",
+      "translation": "答案符",
+      "status": "translated-draft",
+      "sourceHex": "6a706479657c98",
+      "pointerOffsets": [
+        1268348
+      ]
+    },
+    {
+      "offset": "135740",
+      "translation": "寫著謎題的答案，\n\n連問答鬼都不想碰上它！<0D>1<KANJI:9E>",
+      "status": "translated-draft",
+      "sourceHex": "b8b2e5796a70648e206662736189799b0a0ab8b2e579b5c68320616270687562210d31059e",
+      "pointerOffsets": [
+        1268676
+      ]
+    },
+    {
+      "offset": "135861",
+      "translation": "招鬼符   5000<KANJI:8B>",
+      "status": "translated-draft",
+      "sourceHex": "b5c6866e79657c9820202035303030058b",
+      "pointerOffsets": [
+        1269024
+      ]
+    },
+    {
+      "offset": "1358fb",
+      "translation": "護身符",
+      "status": "translated-draft",
+      "sourceHex": "657f8388",
+      "pointerOffsets": [
+        1268372
+      ]
+    },
+    {
+      "offset": "135924",
+      "translation": "只要有這個，討厭的傢伙\n\n也會嚇得不敢出來。 <0D>永久",
+      "status": "translated-draft",
+      "sourceHex": "6a8a6b64618a9d2062847520847287830a0a6a8c6873209b736a8a7f622020200d95af74",
+      "pointerOffsets": [
+        1268700
+      ]
+    },
+    {
+      "offset": "1362ab",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>參加了<FMT:%s>的\n\n抽獎活動！<09>\n\n不知道會中什麼獎，\n\n真是期待啊！<09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105827a202573790a0a698d6cae6376206563a16c7021090a0a75768e20617089660a0a70796c802070796c802109",
+      "pointerOffsets": [
+        48344
+      ],
+      "formatEvidence": {
+        "sourceFormats": [
+          "<FMT:%s>"
+        ],
+        "pointerOffsets": [
+          48344
+        ],
+        "maximumExpansionVerified": true,
+        "previousBlockReason": "原 ROM sourceHex、NUL 邊界及完整指標清單已核對；格式依原順序為 <FMT:%s>。字串參數最大編碼長度、可見寬度、內含換行/控制碼及格式化緩衝區的呼叫點證據尚缺，無法保證展開後 <=680 bytes、每行 <=24 欄。%6s/%9s 等欄寬只是最小寬度，不是長度上限；不改 source args、不刪參數、不以靜態字數冒充安全證明。保留完整譯文、來源及指標。",
+        "engineValidation": "Current validateDialogueEntry strict check passed with all owned translated drafts selected; original-ROM hash, caller pointer inventory, finite argument pools and translated name variants validated by boundedStringArguments.",
+        "argumentBounds": [
+          {
+            "variants": 82,
+            "maxEncodedBytes": 18,
+            "maxVisibleColumns": 6,
+            "maxFormatterMeasuredLength": 18
+          }
+        ],
+        "gameplayVerified": false,
+        "previousRequirement": "Per-call-site argument provenance, maximum encoded length and visible width, newline/control behavior, and total buffer bound."
+      }
+    },
+    {
+      "offset": "136337",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>\n\n使用了<FMT:%s>！<09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105827a0a0a257360207266af702109",
+      "pointerOffsets": [
+        48284,
+        48380,
+        48648,
+        48692
+      ],
+      "formatEvidence": {
+        "sourceFormats": [
+          "<FMT:%s>"
+        ],
+        "pointerOffsets": [
+          48284,
+          48380,
+          48648,
+          48692
+        ],
+        "maximumExpansionVerified": true,
+        "previousBlockReason": "原 ROM sourceHex、NUL 邊界及完整指標清單已核對；格式依原順序為 <FMT:%s>。字串參數最大編碼長度、可見寬度、內含換行/控制碼及格式化緩衝區的呼叫點證據尚缺，無法保證展開後 <=680 bytes、每行 <=24 欄。%6s/%9s 等欄寬只是最小寬度，不是長度上限；不改 source args、不刪參數、不以靜態字數冒充安全證明。保留完整譯文、來源及指標。",
+        "engineValidation": "Current validateDialogueEntry strict check passed with all owned translated drafts selected; original-ROM hash, caller pointer inventory, finite argument pools and translated name variants validated by boundedStringArguments.",
+        "argumentBounds": [
+          {
+            "variants": 82,
+            "maxEncodedBytes": 18,
+            "maxVisibleColumns": 6,
+            "maxFormatterMeasuredLength": 18
+          }
+        ],
+        "gameplayVerified": false,
+        "previousRequirement": "Per-call-site argument provenance, maximum encoded length and visible width, newline/control behavior, and total buffer bound."
+      }
+    },
+    {
+      "offset": "136724",
+      "translation": "ンロ",
+      "status": "excluded-nontext",
+      "reason": "已核對原 ROM：136724 的四 bytes 為 dddb0008，即小端指標 0800dbdd；相鄰 136728、13672c 亦為 0800dcc5、0800dbf9 的位址表項。候選 dddb 只取第一個指標的低兩 bytes，00 是位址的第三 byte，不是文字終止。來源及指向此表的 00dbac=08136724 保留，禁止文字重定向。",
+      "sourceHex": "dddb",
+      "pointerOffsets": [
+        56236
+      ]
+    },
+    {
+      "offset": "13672c",
+      "translation": "ゥロ",
+      "status": "excluded-nontext",
+      "reason": "已核對原 ROM：13672c 的四 bytes 為 f9db0008，即小端指標 0800dbf9；相鄰 136724..13673b 為連續 ROM 位址表。候選 f9db 只取指標低兩 bytes，第三 byte 00 被誤作文字終止。來源及表指標 00dbf4=0813672c 保留，不作文字翻譯。",
+      "sourceHex": "f9db",
+      "pointerOffsets": [
+        56308
+      ]
+    },
+    {
+      "offset": "136738",
+      "translation": "ゲワ",
+      "status": "excluded-nontext",
+      "reason": "已核對原 ROM：136738 的四 bytes 為 e1dc0008，即小端指標 0800dce1，位於 136724 起的 ROM 位址表。候選 e1dc 是指標低兩 bytes，第三 byte 00 被誤認為 NUL。保留來源及表指標 00dcdc=08136738，不作文字重定向。",
+      "sourceHex": "e1dc",
+      "pointerOffsets": [
+        56540
+      ]
+    },
+    {
+      "offset": "136744",
+      "translation": "ルン",
+      "status": "excluded-nontext",
+      "reason": "已核對原 ROM：136744 的四 bytes 為 d9dd0008，即小端指標 0800ddd9；後接其他 ROM 指標而非文字。候選 d9dd 是指標低兩 bytes，00 屬位址本身。來源及表指標 00ddb0=08136744 保留，不作文字翻譯。",
+      "sourceHex": "d9dd",
+      "pointerOffsets": [
+        56752
+      ]
+    },
+    {
+      "offset": "13687c",
+      "translation": "あベ",
+      "status": "excluded-nontext",
+      "reason": "已核對原 ROM：13687c 的四 bytes 為 61f00008，即小端指標 0800f061；後續表項有 0800f119、0800f18d。候選 61f0 是指標低兩 bytes，00 並非文字邊界。來源及表指標 00f03c=0813687c 保留，不作文字重定向。",
+      "sourceHex": "61f0",
+      "pointerOffsets": [
+        61500
+      ]
+    },
+    {
+      "offset": "136ad4",
+      "translation": "ォォォォォャャャャュュュョョッ",
+      "status": "excluded-nontext",
+      "reason": "已核對原 ROM：136ad4..136ae3 為有號 byte 序列 -5,-5,-5,-5,-5,-4,-4,-4,-4,-3,-3,-3,-2,-2,-1,0，後續為 1,2,2,3 等遞增數值。候選在數值 0 處被 NUL 掃描截斷，前方亦為連續小端整數表；不是重複假名文字。來源及 00f514、00f8a4、00fb84 三個原指標全部保留。",
+      "sourceHex": "fbfbfbfbfbfcfcfcfcfdfdfdfefeff",
+      "pointerOffsets": [
+        62740,
+        63652,
+        64388
+      ]
+    },
+    {
+      "offset": "13706d",
+      "translation": "<09><1B>來吧，<KANJI:80><KANJI:81><KANJI:82>！\n\n擲骰子看看！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6b61200580058105826b8d210a0a20bbb2badb60207caf738075211d09",
+      "pointerOffsets": [
+        84916
+      ]
+    },
+    {
+      "offset": "137188",
+      "translation": "<09><1B>我認輸了！\n\n果然比不上<KANJI:80><KANJI:81><KANJI:82>啊！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b7f62887f6c70210a0a200580058105826b8d767a2066758c8d75211d09",
+      "pointerOffsets": [
+        1274348
+      ]
+    },
+    {
+      "offset": "139a45",
+      "translation": "<09><1B>哎<0E>呀，<KANJI:80><KANJI:81><KANJI:82>！\n\n您的錢不夠呀<0E>！<1D><09>\n\n<1B>先到別處賺些錢，\n\n再來光顧吧<0E>！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b7a0e73206b73200580058105826b8d3f0a0a2065059a8e2070887f6e77a90e211d090a0a1b62956a767320666e629b66870a0a207f702065629b2068986cac8d6e0e211d09",
+      "pointerOffsets": [
+        40388
+      ]
+    },
+    {
+      "offset": "139c0c",
+      "translation": "<09>還沒做好面具！<09>",
+      "status": "translated-draft",
+      "sourceHex": "097f98206505a98e209b6773627f6e8d2109",
+      "pointerOffsets": [
+        39468
+      ]
+    },
+    {
+      "offset": "139d72",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>！\n\n你沒有面具喔！<09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105826b8d210a0a6505a9602083af73627f6e8d862109",
+      "pointerOffsets": [
+        45892
+      ]
+    },
+    {
+      "offset": "139ecb",
+      "translation": "這些是<KANJI:80><KANJI:81><KANJI:82>持有的面具！\n\n<1B>假名人臉<1D>表示空位！",
+      "status": "translated-draft",
+      "sourceHex": "0580058105826b8d8e2083af736289206505a99b6d210a0a1b7d797d79837d941d7a2061679d6cae21",
+      "pointerOffsets": [
+        20580
+      ]
+    },
+    {
+      "offset": "13a310",
+      "translation": "<09><1B>是<KANJI:80><KANJI:81><KANJI:82>啊！\n\n你來得正好！<1D><09>\n\n<1B>我收到太多供品，\n\n想分一些給大家！<1D><09>\n\n<1B>但你也看到了，\n\n我沒辦法移動！<1D><09>\n\n<1B><KANJI:80><KANJI:81><KANJI:82>！能幫我把桃子饅頭\n\n送給南邊的地藏嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b05800581058266210a0a20866220746a8b76206770211d090a0a1b656f7564837960208387626d8f70799b0a0a20808d7576208c697361917062211d090a0a1b9b83208073797465880a0a208c6c7a206392698d211d090a0a1b0580058105828621208075807920949763760a0a2005807f8d6020749c6973688a8d663f1d09",
+      "pointerOffsets": [
+        146172
+      ]
+    },
+    {
+      "offset": "13a8a2",
+      "translation": "<09><1B>嘿嘿嘿！\n\n看起來真好吃的桃子饅頭啊！<1D><09>\n\n<KANJI:80><KANJI:81><KANJI:82>的桃子饅頭\n\n被黑河童偷走了！<09>",
+      "status": "translated-draft",
+      "sourceHex": "091bb9b9b9210a0a20637f6f63752005807f8d9875211d090a0a0580058105827a20688bdefff2760a0a05807f8d6020776d7f8a702109",
+      "pointerOffsets": [
+        147864
+      ]
+    },
+    {
+      "offset": "13b29c",
+      "translation": "<09><1B>窮神<0E>！<1D>\n\n <09>\n\n<1B>時間就是金錢呢！\n\n所以要來猜時間呢！<1D><09>\n\n<1B>這次是<FMT:%d>秒！<1D>\n\n <09>\n\n<1B>嗶聲響起後，過了<FMT:%d>秒，\n\n就按下A鍵喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bf1ddee0e211d0a0a20090a0a1b74677a20059a75887579788d210a0a209866872094668d602061738979788d211d090a0a1b6a8d66627a2025649eae63211d0a0a20090a0a1bf32dff742075af732025649eae636c70870a0a2041f1c0dd6020656d79788d211d09",
+      "pointerOffsets": [
+        173144
+      ]
+    },
+    {
+      "offset": "13c3ab",
+      "translation": "<09><1B>那麼，<KANJI:80><KANJI:81><KANJI:82>！\n\n拿出幹勁來吧<0E>！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6f8a9b7a200580058105826b8d210a0a207a8867af73209c63970e211d09",
+      "pointerOffsets": [
+        1295828
+      ]
+    },
+    {
+      "offset": "13c4f1",
+      "translation": "<09><1B>嗚哈哈<0D>！\n\n老夫是福神！<1D><09>\n\n<1B><KANJI:80><KANJI:81><KANJI:82>以<KANJI:83><KANJI:84><KANJI:85><KANJI:86>為目標，\n\n老夫就賞你一份獎勵吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bb3cbfccbfc0d210a0a208c6c7a207c6879668099ac211d090a0a1b05830584058505866082936d20058005810582760a0a207e639e6020848b63211d09",
+      "pointerOffsets": [
+        1295812
+      ]
+    },
+    {
+      "offset": "13c8ec",
+      "translation": "<09><1B>要聽聽滑呀滑溜溜\n\n的說明嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b728972897289888d790a0a2005a505a6602067677f6d663f1d09",
+      "pointerOffsets": [
+        1299176
+      ]
+    },
+    {
+      "offset": "13c966",
+      "translation": "<09>普通地板！\n\n不會打滑，可以正常行走！<09>",
+      "status": "translated-draft",
+      "sourceHex": "097c7263798566210a0a6da0887f6e8d207c726376206189697f6d2109",
+      "pointerOffsets": [
+        196660
+      ]
+    },
+    {
+      "offset": "13c9a2",
+      "translation": "<09>捕獸夾！\n\n被夾住就連按A鍵！<09>",
+      "status": "translated-draft",
+      "sourceHex": "09c4d7edbbd0210a0a7a7faf70872041f1c0dd8a8d982109",
+      "pointerOffsets": [
+        196684
+      ]
+    },
+    {
+      "offset": "13ca16",
+      "translation": "<09><1B>辛苦了，<KANJI:80><KANJI:81><KANJI:82>！<1D>\n\n <09>\n\n<1B>我是雪鬼兄弟中的老二，\n\n雪次郎！<1D><09>\n\n<1B>每十層算一個段落，\n\n這樣就完成一個關卡了！<1D><09>\n\n<1B>朝著冰之塔的頂層，\n\n繼續加油吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b92688b636b7f9b6d200580058105826b8d211d0a0a20090a0a1b8c706c7a20d5b7b5c667ae639862790a0a2094758da16320d5b7e4db2d9b6d211d090a0a1b6a79203130ccdbb19b207b74688f88210a0a2031ba2dbd206cad6388ae639b6d211d090a0a1b6a658879746379206b6294ae636662600a0a2082936c73208e8d9daf7368986b6278211d09",
+      "pointerOffsets": [
+        1299276
+      ]
+    },
+    {
+      "offset": "13d0b4",
+      "translation": "<09><06:02><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n這紀錄真厲害啊！<1D><09>\n\n<1B>送你一張祭典卡片，\n\n留作紀念吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906021b0580058105826b8d210a0a206a79678b687a206d92629b6d7821211d090a0a1b67788d7620657f7288b62dec600a0a206b6c61917f6d8621211d09",
+      "pointerOffsets": [
+        1300120
+      ]
+    },
+    {
+      "offset": "13d1ba",
+      "translation": "<09><1B>你好，你好！\n\n你總是這麼有精神呢！<1D><09>\n\n<1B>真想送給這樣的<KANJI:80><KANJI:81><KANJI:82>\n\n一張漂亮的祭典卡片，<1D><09>\n\n<1B>可惜呀，\n\n這次什麼也沒有！<1D><09>\n\n<1B>總之，\n\n有空再來玩吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b9c6383209c63830a0a2062728320918d676f639b6d7821211d090a0a1b6f8d75200580058105826b8d760a0a20bdc3b77520657f7288b62dec601d090a0a1b6b6c61917062746a8b9b6d8e0a0a206a8d66627a207576832061887f6e8d211d090a0a1b74766668207f7020616f9e760a0a20677368986b6278211d09",
+      "pointerOffsets": [
+        1300168
+      ]
+    },
+    {
+      "offset": "145eaf",
+      "translation": "<09><1B>貧窮神大人最近\n\n一直靜不下來呢<0D><1D><09>\n\n<1B>到底怎麼了呀？<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "091b9e8da1638e80bbcfaf70870a0a206b62678d20657172678e207568af730d1d090a0a1b9c636c708d9b6cae6378aa3f1d0a0a2009",
+      "pointerOffsets": [
+        1338824
+      ]
+    },
+    {
+      "offset": "145f98",
+      "translation": "<09><1B>貧窮神大人住在這村子，\n\n所以大家都很窮。<1D><09>\n\n<1B>不過生活上沒什麼困難，\n\n日子過得很幸福喔。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6a7905927a209e8da1638e80bbcf8e0a0a206d8d9b6289799b209e8da16375799b6d1d090a0a1b9b832068876d767a206f8d75760a0a206a7faf737562799b206c618c6e9b6d861d09",
+      "pointerOffsets": [
+        1338892
+      ]
+    },
+    {
+      "offset": "14610b",
+      "translation": "<09><06:18><1B>一直以來，\n\n真是謝謝你呢！<1D><09>\n\n<1B>為了感謝<KANJI:80><KANJI:81><KANJI:82>，\n\n這個就送給你呢！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906181b627283206272830a0a2061888e74637579788d211d090a0a1b6f8d75200580058105826b8d767a0a0a206a8a602061918979788d211d09",
+      "pointerOffsets": [
+        1340000
+      ]
+    },
+    {
+      "offset": "14634d",
+      "translation": "<09><1B>這裡是貧窮神居住的\n\n窮神村。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6a6a7a209e8da1638e808e206d810a0a20f1ddee2d79059294ac1d09",
+      "pointerOffsets": [
+        1338700
+      ]
+    },
+    {
+      "offset": "146409",
+      "translation": "<09><1B>貧窮神大人，\n\n您平安無事真是太好了！<1D><09>\n\n<1B>有<KANJI:80><KANJI:81><KANJI:82>陪著您，\n\n我們就放心了！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b9e8da1638e80bbcf0a0a2086689720929f949b211d090a0a1b0580058105826b8d742062af6cae75870a0a20618d6c8d9b6d75211d09",
+      "pointerOffsets": [
+        1338936
+      ]
+    },
+    {
+      "offset": "1465bf",
+      "translation": "<09><1B>我想替貧窮神大人的銅像\n\n撣去灰塵，<1D><09>\n\n<1B>所以在找<03:15>羽毛撢子<04>，\n\n不知道哪裡有呢！<1D><09>\n\n<1B>得趕在找到銅像之前，\n\n先去弄一把才行<0D><1D><09>\n\n<1B>不過<03:15>羽毛撢子<04>\n\n碰到身上真的好癢呢！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b9e8da1638e80bbcf79209c639763790a0a207e6a88602074af7361917068731d090a0a1b03157a78a163670460206b8e6c73898d9b6d8e0a0a209c6a762061898d9b6cae6378211d090a0a1b9c6397638e20807266897f64760a0a209c6a669b207376628a7562740d1d090a0a1b9b832003157a78a1636704af730a0a206d926820686d90af70628d9b6d8678211d09",
+      "pointerOffsets": [
+        1339096
+      ]
+    },
+    {
+      "offset": "146970",
+      "translation": "<09><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n貧窮神大人雖然是那個樣子，<1D><09>\n\n<1B>還請你多多照顧了。<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "091b0580058105826b8d210a0a20618d75209e8da1638e80bbcf9b6d8e1d090a0a1b868b6c682065788e626c7f6d781d0a0a2009",
+      "pointerOffsets": [
+        1339196
+      ]
+    },
+    {
+      "offset": "146bbc",
+      "translation": "<09><1B>前面有座山，\n\n山上有好多洞！<1D><09>\n\n<1B>因為洞穴\n\n一個個排在一起，<1D><09>\n\n<1B>我們就把那裡\n\n叫作並排洞窟！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6a796b67762061758e2070686b8d0a0a20616273628920847f8e2061898d94ac211d090a0a1b8c6c877a206f6a600a0a2061758e2075878d9b6589799b1d090a0a1b75879e9c6368720a0a207420868d9b65897994ac211d09",
+      "pointerOffsets": [
+        1338756
+      ]
+    },
+    {
+      "offset": "1475e5",
+      "translation": "<09><06:27><1B>前些日子，\n\n真是太感謝你了！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906271b6a796162987a207e8d7463760a0a2061888e74639293627f6c70211d09",
+      "pointerOffsets": [
+        1347384
+      ]
+    },
+    {
+      "offset": "1477be",
+      "translation": "<09><06:27><1B>需要<03:15>烤地瓜<04>！<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "0906271b031584676283048e207b7286639b6d211d0a0a2009",
+      "pointerOffsets": [
+        1346416
+      ]
+    },
+    {
+      "offset": "14780c",
+      "translation": "<09><06:27><1B>需要<03:15>菠菜<04>！<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "0906271b03157e638a8d6f63048e207b7286639b6d211d0a0a2009",
+      "pointerOffsets": [
+        1346440
+      ]
+    },
+    {
+      "offset": "147859",
+      "translation": "<09><06:27><1B>為了烏龜先生，\n\n請儘快收齊材料吧。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906271bb6d26b8d7970827683207a84680a0a20936288ae6360206172827368986b62781d09",
+      "pointerOffsets": [
+        240780
+      ]
+    },
+    {
+      "offset": "1479e4",
+      "translation": "<09><1B>哎呀，怎麼了？\n\n怎麼還帶著個孩子！<1D><09>\n\n<1B>是迷路的孩子嗎？\n\n不知道是哪家的呢。<1D><09>\n\n<1B>真不好意思，\n\n我完全沒有頭緒。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b7f61209c636c708d9b6d663f0a0a206a9c83758d7320728a73211d090a0a1b7f6292209b6d66210a0a206b61209c6a79206a9c83666c8778aa1d090a0a1b61627668740a0a206bafa288208c66887f6e8d78aa1d09",
+      "pointerOffsets": [
+        1346708
+      ]
+    },
+    {
+      "offset": "147b1f",
+      "translation": "<09><1B>原來如此，不愧是<KANJI:80><KANJI:81><KANJI:82>！\n\n什麼都瞞不過你啊！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6f6366206b6d8e7a200580058105826b8d210a0a20758d9b8320658074656c94ac75211d09",
+      "pointerOffsets": [
+        1347148
+      ]
+    },
+    {
+      "offset": "147e63",
+      "translation": "<09><1B>哎呀，櫻花\n\n果然真漂亮啊！<1D><09>\n\n<1B>賞花最棒了！\n\n飯菜也特別香！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6284612084afa2880a0a20bbb8d77a20678a62987561211d090a0a1b7a75807a20bbb2ba2d9875210a0a20d2bc8e206382aa84211d09",
+      "pointerOffsets": [
+        1346468
+      ]
+    },
+    {
+      "offset": "147f95",
+      "translation": "<09><1B>櫻花固然漂亮<0D><1D>\n\n <09>\n\n<1B>不過你呀，\n\n比櫻花還要美。<1D><09>\n\n<KANJI:80><KANJI:81><KANJI:82>\n\n似乎被無視了。<09>",
+      "status": "translated-draft",
+      "sourceHex": "091bbbb8d78320b7dab298699c0d1d0a0a20090a0a1b678079207e638e0a0a2083af7420b7dab298861d090a0a0580058105827a0a0ad1bc6b8a702086639809",
+      "pointerOffsets": [
+        1347976
+      ]
+    },
+    {
+      "offset": "14816c",
+      "translation": "<09><06:0B><1B>小狗玩偶裝\n\n有派上用場嗎？<1D><09>\n\n<1B>詳細的用法，\n\n花開爺爺都知道喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "09060b1b62779089807a0a0a20658468762070af73627f6d663f1d090a0a1b688c6c622072666266707a207a756b66790a0a206594626b8d8e206caf73627f6d86211d09",
+      "pointerOffsets": [
+        1347832
+      ]
+    },
+    {
+      "offset": "14833c",
+      "translation": "<09><1B>想要花卻買不到的人，\n\n一定很多吧。<1D><09>\n\n<1B>附近村子的人\n\n還能過來買<0D><1D><09>\n\n<1B>對住在遠方村子的人來說，\n\n花應該很珍貴吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b7a758e207e6c62699c2066647562058f8e0a0a2070686b8d2062898d9b6cae63781d090a0a1b6a79207166687920059275870a0a20666276206a878a89699c0d1d090a0a1b7465687920059279058f7071767a0a0a206771ae6320758d9b6cae6378211d09",
+      "pointerOffsets": [
+        1346608
+      ]
+    },
+    {
+      "offset": "1485d4",
+      "translation": "<09><1B>最近不知道為什麼，\n\n老是提不起精神。<1D><09>\n\n<1B>也不像是五月病，\n\n到底怎麼回事呢？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b758d9866206b62678d0a0a20918d678e209b75628d9b6d861d090a0a1b358e729eae63af73208c699b8375626c0a0a209c636c71acaf708d9b6cae63781d09",
+      "pointerOffsets": [
+        1348152
+      ]
+    },
+    {
+      "offset": "148841",
+      "translation": "<09><06:26><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n謝謝你幫我找媽媽！<1D><09>\n\n<1B>以後我會小心，\n\n不再迷路了！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906261b0580058105826b8d2120666171ac8d600a0a206b8e6c73688a732061888e7463211d090a0a1b6a8d9c6687207f6292760a0a207587756286637620676072698986211d09",
+      "pointerOffsets": [
+        1347508
+      ]
+    },
+    {
+      "offset": "148b1f",
+      "translation": "<09><06:26><1B>烏龜先生得救了呀！\n\n太好了，太好了！<1D><09>\n\n<1B>不愧是<KANJI:80><KANJI:81><KANJI:82>！\n\n真是可靠呢！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906261bb6d26b8d20706d66af708d9878210a0a208666af70208666af70211d090a0a1b6b6d8e7a200580058105826b8d210a0a207086887620758978211d09",
+      "pointerOffsets": [
+        1347460
+      ]
+    },
+    {
+      "offset": "14967d",
+      "translation": "<09><1B>這本卡片相簿用來收納\n\n現在流行的祭典卡片！<1D><09>\n\n<1B>總共有<03:15>100張<04>呢！\n\n很值得收集吧！<1D><09>\n\n<1B>祭典卡片就是這樣！\n\n<KANJI:80><KANJI:81><KANJI:82>，送你一張吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6a7920b62decb1d9edd1767a20cad488790a0a20657f7288b62dec6020628a897999ac211d090a0a1b968d9f9b200315313030058c04832061898d99ac210a0a206172828e628e20618b63211d090a0a1b6a8d7520657f7288b62dec99ac210a0a2005800581058286212031058c20848b63211d09",
+      "pointerOffsets": [
+        1351792
+      ]
+    },
+    {
+      "offset": "149911",
+      "translation": "<09><1B>再差一點點，\n\n祭典卡片就全部收齊了！<1D><09>\n\n<1B>加油啊，\n\n<KANJI:80><KANJI:81><KANJI:82>！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b61742083636d6a6c9b0a0a20657f7288b62dec7a20968d9f99ac211d090a0a1b8e8d9d898d99ac97210a0a2005800581058286211d09",
+      "pointerOffsets": [
+        240960
+      ]
+    },
+    {
+      "offset": "149b55",
+      "translation": "<09><1B>嗚哈哈<0D>！\n\n老夫是飛燕仙人！<1D><09>\n\n<1B><KANJI:80><KANJI:81><KANJI:82>，這孩子迷路了？\n\n你在找他的母親吧？<1D><09>\n\n<1B>快幫他找到吧！<1D>\n\n <09>\n\n<1B>傳授飛燕之術的修行，\n\n等那之後再說吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bb3cbfccbfc0d210a0a208c6c7a207b648d059d058f99ac211d090a0a1b0580058105828621207f629266753f206f796a790a0a207a7a658460206b8e6c74898d99ac8b3f1d090a0a1b7a8620807269986c7384898d99ac75211d0a0a20090a0a1b7b648d7994ad7260206b9569890a0a206cad8fae637a206f79617499ac211d09",
+      "pointerOffsets": [
+        1352192
+      ]
+    },
+    {
+      "offset": "149eff",
+      "translation": "<09><1B>如何，<KANJI:80><KANJI:81><KANJI:82>！<1D>\n\n <09>\n\n<1B>飛燕之術\n\n用起來怎麼樣？<1D><09>\n\n<1B>很方便吧！<1D>\n\n <09>\n\n<1B>難得你來一趟，\n\n老夫就把這個賜給你吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b9c6399ac20058005810582211d0a0a20090a0a1b7b648d7994ad72790a0a20726662926a717a3f1d090a0a1ba08d8899ac8b63211d0a0a20090a0a1b6eaf66682067707999ac66870a0a20657f6476206a8a60206b95698663211d09",
+      "pointerOffsets": [
+        1352096
+      ]
+    },
+    {
+      "offset": "14a557",
+      "translation": "<09><1B>下雪了呢！（Snow）<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "091b8567209b6d79ab2d28bdc92d291d0a0a2009",
+      "pointerOffsets": [
+        1361516
+      ]
+    },
+    {
+      "offset": "14a5e8",
+      "translation": "<09><1B>女性參賽者也不輸人呢！<1D>\n\n <09>\n\n<1B>謝謝妳，\n\n托莫・尤可小姐！<1D><09>\n\n<1B>接下來有請\n\n六號參賽者，<1D><09>\n\n<1B>埼玉縣的小吉小弟！\n\n請拿出精神來吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b94ae6e62948d83208e8d9d887f6d78211d0a0a20090a0a1b61888e74639293627f6c700a0a20748385636abbdd211d090a0a1b729a677f6c737a0a0a20b4ddc4d82dc5dded2d369d8d1d090a0a1b6b62707f698d79208f2d71ac8db8dd210a0a20918d678668209c6397211d09",
+      "pointerOffsets": [
+        1361536
+      ],
+      "languageReview": {
+        "status": "reviewed-zh-Hant-name-draft",
+        "retainedKana": [],
+        "nameMappings": [
+          {
+            "original": "ともゆうこ",
+            "translation": "托莫・尤可"
+          },
+          {
+            "original": "ぎーちゃん",
+            "translation": "小吉"
+          }
+        ],
+        "reason": "依原 ROM 假名讀音採繁中音譯；可辨筆名詞義採意譯，重複名稱統一。非投稿者姓名漢字考證或官方譯名宣稱；原名 KANJI tokens 與所有控制碼不變。"
+      }
+    },
+    {
+      "offset": "14a90f",
+      "translation": "<09><1B>去中國吧，去China吧！<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "091b71ad639268762062afc1fcb2c5211d0a0a2009",
+      "pointerOffsets": [
+        1361600
+      ]
+    },
+    {
+      "offset": "14aa18",
+      "translation": "<09><1B>被雷劈中的是\n\n哥哥啦！（Thunder）<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bb6d0c5d876206170af70797a0a0a2076626b8d982d28bbdde82d291d09",
+      "pointerOffsets": [
+        1361624
+      ]
+    },
+    {
+      "offset": "14ab34",
+      "translation": "<09><1B>好厲害！真不像小孩子呢，\n\n金吉羅小弟！<1D><09>\n\n<1B>接下來有請\n\n十六號參賽者，<1D><09>\n\n<1B>神奈川縣的修塔超人小弟！\n\n又是一位男孩子！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b637f6221206a9c83747a0a0a206583647f6e8d752120678d948b63b8dd1d090a0a1b729a677f6c737a0a0a20b4ddc4d82dc5dded2d31369d8d1d090a0a1b66758e8c698d79206cae6370cfdd688d210a0a207f707f702065746a796a9b6d211d09",
+      "pointerOffsets": [
+        1361656
+      ],
+      "languageReview": {
+        "status": "reviewed-zh-Hant-name-draft",
+        "retainedKana": [],
+        "nameMappings": [
+          {
+            "original": "きんじろう",
+            "translation": "金吉羅"
+          },
+          {
+            "original": "しょうたマン",
+            "translation": "修塔超人"
+          }
+        ],
+        "reason": "依原 ROM 假名讀音採繁中音譯；可辨筆名詞義採意譯，重複名稱統一。非投稿者姓名漢字考證或官方譯名宣稱；原名 KANJI tokens 與所有控制碼不變。"
+      }
+    },
+    {
+      "offset": "14aee0",
+      "translation": "<09><1B>哎呀！\n\n真是令人吃驚！<1D><09>\n\n<1B>這次各位的表現\n\n都非常出色，<1D><09>\n\n<1B>因此史無前例地，\n\n全員都<0E><0E>是冠軍！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b758d74210a0a20659c8b679b6d211d090a0a1b6a8d66627a2080756b8d0a0a207b94ae63762085636cad6375799b1d090a0a1b968d986280838d790a0a20968d628d2085636cae639b0e0e6d211d09",
+      "pointerOffsets": [
+        242956
+      ]
+    },
+    {
+      "offset": "14b15f",
+      "translation": "<09><06:0E><1B>多謝！有人\n\n留了這封信！<1D><09>\n\n<1B>讀吧！<1D>\n\n <09>\n\n<06:63><KANJI:80><KANJI:81><KANJI:82>\n\n接信。<09>\n\n信上\n\n寫著：<09>\n\n<06:03>無聊的冷笑話賽，\n\n我要搞砸！<09>\n\n<03:15>冷笑話題目<04>藏在\n\n世上最蠢處。<09>\n\n不服就找！\n\n            -柿<KANJI:81><KANJI:82>-<09>\n\n<06:05><1B>啊，哥哥！\n\n他拿走題目！<1D><09>\n\n<1B>不愧是哥！\n\n真帥！<1D><09>\n\n<06:0E><1B>什麼！\n\n你是誰！<1D><09>\n\n<06:05><1B>哼哼！\n\n我叫栗<KANJI:81><KANJI:82>！<1D><09>\n\n<1B>是寫信的\n\n柿<KANJI:81><KANJI:82>之弟！<1D><09>\n\n<06:0E><1B>帥什麼！\n\n笨蛋！<1D><09>\n\n<1B>村民\n\n多期待大會！<1D><09>\n\n<1B>我以前\n\n也做過壞事，<1D><09>\n\n<1B>但如今\n\n為村民工作！<1D><09>\n\n<1B>也多虧\n\n<KANJI:80><KANJI:81><KANJI:82><0D><1D><09>\n\n<1B>算了，\n\n<KANJI:80><KANJI:81><KANJI:82>！拜託了！<1D><09>\n\n<1B>以柿<KANJI:81><KANJI:82>的信\n\n為線索，<1D><09>\n\n<1B>把<03:15>冷笑話題目<04>\n\n找回來吧。<1D><09>",
+      "status": "translated-draft",
+      "reviewNote": "原 ROM 14b15f 至 NUL 與指標 14cb28 已核對；逐頁精簡措辭，保留信件、所有角色發言、敘述、控制碼及換行節奏，未拆分或刪除事件。",
+      "sourceHex": "09060e1b61888e7062212094727a206a8d750a0a20738e808e2065627361af707994ac211d090a0a1b868d9b8073688a211d0a0a20090a0a06630580058105827a0a0a738e806020636974af70090a0a738e80767a0a0a6a632066668a736270090a0a06036898877562209894ac8a05b305b8758d730a0a9f716a8c6c73848921090a0a03159894ac8a79659862047a206a79869b0a0a319d8d20b1ce7520746a8b762066686c70090a0a68846c66af7087208072697380898d9875210a0a2020202020202020202020202db6b7058105822d090a0a06051b61af20618d71ac8d98210a0a20618d71ac8d8e2065986260211d090a0a1b84afa28820618d71ac8d98210a0a2066af6a626275a7211d090a0a060e1b758d94ac74210a0a20657f647a20988a94ac211d090a0a06051bb4ffcddd210a0a20b5d77920757f647a20b8d805810582211d090a0a1b6f7920738e8060206662700a0a20b6b705810582792065746374209862211d090a0a060e1b75768e2066af6a626275a7212098210a0a206a7920edb6d3dd211d090a0a1b6a79059279058f70718e209c8a98690a0a2070796c8076206c7362896a74661d090a0a1b8c6c832081666c7a0a0a208c89626a7460206c70838d94ac8e1d090a0a1b627f7a200592058f7071797082760a0a207a7087627362898d94ac211d090a0a1b6a8a83200580058105826b8d790a0a2065669194ac8e0d1d090a0a1b7f612086620a0a200580058105826b8d212065788e6294ac211d090a0a1b6a7920b6b70581058279738e80600a0a20738e6688766c731d090a0a1b03159894ac8a7965986204600a0a208072697365688a1d09",
+      "pointerOffsets": [
+        1362728
+      ],
+      "estimatedEncodedBytes": 678,
+      "capacityReview": {
+        "status": "resolved-concise",
+        "encodedBytes": 678,
+        "limitBytes": 680,
+        "visibleWidthLimit": 24,
+        "sourcePointersVerified": true,
+        "controlsPreserved": true,
+        "newlineCadencePreserved": true,
+        "contentReview": "逐頁精簡措辭；所有角色發言、事件資訊、敘述、停頓與強調皆保留，未刪頁或拆事件。",
+        "gameplayVerified": false
+      }
+    },
+    {
+      "offset": "14c3a2",
+      "translation": "<09><1B>終於要開始了嗎？\n\n我能順利參加大會嗎？<1D><09>\n\n<1B>都等到現在了，\n\n應該能參加吧。<1D><09>\n\n<1B>再等一下好了！<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "091b86638468207a947f8979662071ac8d740a0a2005b305b876209b878a897966753f1d090a0a1b6a6a7f9b207faf73708d9866870a0a209b878a8986751d090a0a1b83636d6a6c207faf738663af74211d0a0a2009",
+      "pointerOffsets": [
+        1362184
+      ]
+    },
+    {
+      "offset": "14d073",
+      "translation": "<09><06:05><1B>你來啦！\n\n<KANJI:80><KANJI:81><KANJI:82>！等你好久栗！<1D><09>\n\n<1B>我的名字叫\n\n<03:15>栗<KANJI:81><KANJI:82><04>！<1D><09>\n\n<1B>你問飯糰村村長的<03:15>芭蕉樹<04>\n\n是不是在我這裡？<1D><09>\n\n<1B>沒錯，<KANJI:80><KANJI:81><KANJI:82>！我想跟你比賽，\n\n所以才偷走它栗！<1D><09>\n\n<1B>只要在喀嚓喀嚓大賽跑贏我，\n\n我就還給你栗！<1D><09>\n\n<1B>要挑戰看看栗？<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "0906051b866820677075210a0a2005800581058221207faf7370b8d8211d090a0a1bb5d77920757f647a0a0a200315b8d8058105820498211d090a0a1b65816d9e059279059205a0792003159d6cae63796704600a0a2083af7389988baf733f1d090a0a1b6f639886200580058105822120657f64740a0a206cae639f6c70687320776d8d98b8d8211d090a0a1bb6c1b6c105b3da2dbd9b0a0a20b5d77620667370872066646db8d8211d090a0a1b71ae636e8d206c738089b8d83f1d0a0a2009",
+      "pointerOffsets": [
+        243064
+      ]
+    },
+    {
+      "offset": "14d767",
+      "translation": "<09><1B><KANJI:80><KANJI:81><KANJI:82>，在遊戲屋\n\n玩過遊戲之後，<1D><09>\n\n<1B>打開狀態畫面，\n\n選選看<03:15>卷軸圖案<04>吧。<1D><09>\n\n<1B>至今玩過的遊戲紀錄，\n\n都能在那裡看到喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b0580058105826b8d20616f9e05a705a89b0a0a2085638f602070796c8d98871d090a0a1bbdc32dc0bd60207b8762730a0a2003157f67837979206404602064878d9b80751d090a0a1b627f7f9b20616f8d982085638f790a0a20678b688e2080878a8966876b211d09",
+      "pointerOffsets": [
+        1367940
+      ]
+    },
+    {
+      "offset": "14da0a",
+      "translation": "<09><1B>要來比一場\n\n喀嚓喀嚓大賽跑嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bb6c1b6c105b3da2dbd9b0a0a206cae639f206c7f6d663f1d09",
+      "pointerOffsets": [
+        1369288
+      ]
+    },
+    {
+      "offset": "14dba9",
+      "translation": "<09><1B>喔，<KANJI:80><KANJI:81><KANJI:82>！\n\n討伐鬼族真是辛苦你了！<1D><09>\n\n<1B>喀嚓喀嚓村能舉辦祭典，\n\n也都是多虧了你啊！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6565200580058105822120b5c67062940a0a20ceddc4762092688b6394acaf70211d090a0a1bb6c1b6c17905929b20657f72888e0a0a209b6789798320657f64792065669194ac1d09",
+      "pointerOffsets": [
+        1368384
+      ]
+    },
+    {
+      "offset": "14de5f",
+      "translation": "<09><1B>蹦蹦跳！\n\n<KANJI:80><KANJI:81><KANJI:82>！<1D><09>\n\n<1B>哎呀，飯糰村村長也在！\n\n兩位要去哪裡呢？<1D><09>\n\n<1B>啊，原來是\n\n要回飯糰村啊！<1D><09>\n\n<06:06><1B>是啊！離開喀嚓喀嚓村，\n\n往北走一小段，<1D><09>\n\n<1B>就是飯糰村了！\n\n祭典玩得真開心啊！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bf3fef3fedd20f3fedd210a0a200580058105826b8d211d090a0a1b6584212065816d9e059279059205a06b8d830a0a209262af6cae9b209c7187763f1d090a0a1b61612065816d9e0592760a0a2065839c88758d9b6d78211d090a0a06061b6f6394ac2120b6c1b6c1790592609b730a0a206d6a6c206770762062699d1d090a0a1b65816d9e059294ac668779fb210a0a20657f72887a2070796c66af709762211d09",
+      "pointerOffsets": [
+        1369360
+      ]
+    },
+    {
+      "offset": "14eb22",
+      "translation": "<09><1B>這個希望<KANJI:96><KANJI:97>\n\n並沒有天皇！<1D><09>\n\n<1B>不過，若拿村子來比，\n\n倒是有位相當於村長的人。<1D><09>\n\n<1B>他住在\n\n裡面的那間房子。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6a792067a16305960597767a0a0a2080669c7a206275628d9b6d211d090a0a1b9b832005929b626375870a0a20059205a07620617089058f7a20627f6d861d090a0a1b6f79206568790a0a206264766d8d9b627f6d1d09",
+      "pointerOffsets": [
+        1380960
+      ]
+    },
+    {
+      "offset": "14ec72",
+      "translation": "<09><1B>其實有一座樓梯，\n\n只有小孩子知道喔！<1D><09>\n\n<1B><KANJI:80><KANJI:81><KANJI:82>也是小孩子，\n\n所以人家就告訴你吧！<1D><09>\n\n<1B>塔的背面\n\n很可疑喔！<1D><09>\n\n<1B>再多的事情，\n\n就不能告訴你了喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b94727a206a9c8370716c66206c8775620a0a206662988d8e2061898d9b71ad2d211d090a0a1b0580058105826b8d7a206a9c839866870a0a20656c6473206191899b71ad2d211d090a0a1b74637920b3d78e0a0a2061846c628d9b71ad2d211d090a0a1b6a8a206294ae637a0a0a20656c64732061918a75629b71ad2d211d09",
+      "pointerOffsets": [
+        1381044
+      ]
+    },
+    {
+      "offset": "14f4a7",
+      "translation": "<09><06:0F><1B>你好，<KANJI:80><KANJI:81><KANJI:82>！<1D>\n\n <09>\n\n<1B>從那以後，我也洗心革面，\n\n認真工作啦！<1D><09>\n\n<1B>偷來的錢也捐給神社了，\n\n嘿嘿嘿<0D><1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "09060f1b6a8d76718c200580058105826b8d211d0a0a20090a0a1b618a66872061af6c83206a6a8b600a0a20628a666473207a70876273898d9b6d961d090a0a1b776d8d982065059a8320948d94ac760a0a20677c206c737f6d6c78207daf7daf7d0d1d09",
+      "pointerOffsets": [
+        1383752
+      ]
+    },
+    {
+      "offset": "14f633",
+      "translation": "<09><1B>我等一下要去約會呢。<1D>\n\n <09>\n\n<1B>是不是該先去澡堂\n\n洗個澡再去呀？<1D><09>\n\n<1B>討厭，色鬼！<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "091b627f668720eb2dc475798678aa1d0a0a20090a0a1b6e8d746376207a62af7366870a0a2062af707e638e206262666c871d090a0a1b842d98204878aa1d0a0a2009",
+      "pointerOffsets": [
+        1381212
+      ]
+    },
+    {
+      "offset": "14f79f",
+      "translation": "<09><06:09><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n今後也請繼續加油喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906091b0580058105826b8d210a0a206a8a668783208e8d9daf7368986b62781d09",
+      "pointerOffsets": [
+        1383832
+      ]
+    },
+    {
+      "offset": "14f970",
+      "translation": "<09><06:19><1B>這樣就有101張了！\n\n所有祭典卡片都收齊了！<1D><09>\n\n<1B>儘管向朋友們\n\n好好炫耀一番吧！<1D><09>\n\n<1B>謝謝你！<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "0906191b6a8a9b20313031058c21206da073790a0a20657f7288b62dec8e206f8b627f6c70211d090a0a1b70686b8d2074839871760a0a20947f8d6c732068986b6278211d090a0a1b61888e74639293627f6c70211d0a0a2009",
+      "pointerOffsets": [
+        1382344
+      ]
+    },
+    {
+      "offset": "14fb91",
+      "translation": "<09><06:1C><1B>你好！\n\n我是招牌姑娘小諾莉！<1D><09>\n\n<1B>自己說自己是招牌姑娘，\n\n好像有點不好意思<0D><1D><09>\n\n<1B>可是沒辦法呀！\n\n誰叫我這麼可愛呢！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "09061c1b6a8d76718c210a0a20668d9d8d816d827920798871ac8d9b6d1d090a0a1b949f8d9b20668d9d8d816d82210a0a20af736263798320758d9b6d8e0d1d090a0a1b6c66702075629b6d78210a0a20668c62628d986687211d09",
+      "pointerOffsets": [
+        1382512
+      ],
+      "languageReview": {
+        "status": "reviewed-zh-Hant-name-draft",
+        "retainedKana": [],
+        "nameMappings": [
+          {
+            "original": "のりちゃん",
+            "translation": "小諾莉"
+          }
+        ],
+        "reason": "依原 ROM 假名讀音採繁中音譯；可辨筆名詞義採意譯，重複名稱統一。非投稿者姓名漢字考證或官方譯名宣稱；原名 KANJI tokens 與所有控制碼不變。"
+      }
+    },
+    {
+      "offset": "14fc54",
+      "translation": "<09><06:1C><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n有沒有偶爾回家看看呀？<1D><09>\n\n<1B>我想應該有好多獎盃之類的\n\n送到你家了喔！<1D><09>\n\n<1B>那種地方說不定\n\n藏著稀有的祭典卡片呢！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "09061c1b0580058105826b8d2120707f767a0a0a2065637176206664af737f6d663f1d090a0a1b62afa26220c4dbccf82d74660a0a20749c62738974206583627f6d86211d090a0a1b6f63626320746a8b76208295876c620a0a20657f7288b62dec8e2061896683211d09",
+      "pointerOffsets": [
+        1382488
+      ]
+    },
+    {
+      "offset": "14ff05",
+      "translation": "<09><1B>蹦蹦跳！\n\n你和我都是小兔子！<1D><09>\n\n<1B>看在同是兔子的情分上，\n\n這個你就收下吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bf3fedd20f3fe20f3fedd210a0a2061757083208c706c8320b3bbdf6b8d211d090a0a1bb3bbdf9c636c7920866c8098210a0a206a8a6020636974af73688a86211d09",
+      "pointerOffsets": [
+        1381420
+      ]
+    },
+    {
+      "offset": "1500aa",
+      "translation": "<09><1B>我家女兒呀，\n\n還是愛糰子勝過賞花。<1D><09>\n\n<1B>比起打扮，\n\n她更愛吃呢！<1D><09>\n\n<1B>話說回來，<KANJI:80><KANJI:81><KANJI:82>！<1D>\n\n <09>\n\n<1B>串糰子時，有沒有\n\n對準竹籤的正中央呢？<1D><09>\n\n<1B>串得漂亮的糰子，\n\n能獲得額外加分喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b63717920816d827a0a0a207f98207a75868820988d9220758d94ac1d090a0a1b7f98207f9820b2dbb986880a0a206862692094ac75211d090a0a1b746a8b9b200580058105826b8d211d0a0a20090a0a1b686c79207f8d756676206f8b64730a0a20988d9260206b6c737f6d66753f1d090a0a1b678a627520686c988d92767a0a0a20f12dc5bd059f8e207a62898d9b6d86211d09",
+      "pointerOffsets": [
+        1380484
+      ]
+    },
+    {
+      "offset": "150510",
+      "translation": "<09><1B>希望<KANJI:96><KANJI:97>利用這裡\n\n錯綜複雜的街道，<1D><09>\n\n<1B>舉辦一種叫作\n\n「都城GO！」的遊戲喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b67a163059605979b7a206a79206288688d980a0a207f71758060208886636c731d090a0a1b80846a9b474f21207462630a0a2085638f60206d898d9b6d86211d09",
+      "pointerOffsets": [
+        1380848
+      ]
+    },
+    {
+      "offset": "150704",
+      "translation": "<09><06:05><1B>恢復精神了栗！<1D>\n\n <09>\n\n<1B>謝<0D>謝謝你栗！<1D>\n\n <09>\n\n<06:09><1B>太好了，<KANJI:80><KANJI:81><KANJI:82>！\n\n栗<KANJI:81><KANJI:82>的身體康復了！<1D><09>\n\n<1B>總算能讓他看到\n\n你和柿<KANJI:81><KANJI:82>的對決了！<1D><09>\n\n<1B>栗<KANJI:81><KANJI:82>！接下來也加油啊！<1D>\n\n <09>\n\n<06:05><1B>我想看哥哥\n\n和<KANJI:80><KANJI:81><KANJI:82>認真比賽，<1D><09>\n\n<1B>才一路跟到這裡栗！\n\n我哥哥超厲害的栗！<1D><09>\n\n<06:09><1B>竟然會尊稱<KANJI:80><KANJI:81><KANJI:82>先生啊<0D><1D>\n\n <09>\n\n<1B>那麼，<KANJI:80><KANJI:81><KANJI:82>，\n\n我也在這裡告辭了。<1D><09>\n\n<1B>一路小心！<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "0906051b918d67762075af70b8d8211d0a0a20090a0a1b610d2061888e7463b8d8211d0a0a20090a0a06091b8666af709b6d7821200580058105826b8d210a0a20b8d805810582796687988e20866875af73211d090a0a1bb6b70581058274792070626972600a0a208663846820806e73848a7f6d78211d090a0a1bb8d80581058221208e8d9daf73626986211d0a0a20090a0a06051b618d71ac8d74200580058105826b8d790a0a206c8d698d6cae639f8e20807068731d090a0a1b6a6a7f9b2067708d98b8d8210a0a20618d71ac8d7a206d92628d98b8d8211d090a0a06091b0580058105826b8d20660d1d0a0a20090a0a1b6f8a9b7a200580058105826b8d0a0a20b5b2d783206a6a9b20658c668a6c7f6d1d090a0a1b9b7a20656760726973211d0a0a2009",
+      "pointerOffsets": [
+        1381596
+      ]
+    },
+    {
+      "offset": "15245f",
+      "translation": "<09><06:05><1B>好痛<0D>\n\n放開我栗！<1D><09>\n\n<06:00><1B>你哥哥\n\n還真是個過分的傢伙啊。<1D><09>\n\n<1B>竟然丟下你這個弟弟，\n\n自己逃跑了！<1D><09>\n\n<06:05><1B>他一定<0D>\n\n會來救我的栗！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906051bb2c3c30d0a0a207360207a756eb8d8211d090a0a06001b657f647920b1c6b77a0a0a207b9c6220d4c298751d090a0a1b657463747920657f64600a0a20806d737320769173af709c211d090a0a06051b67af740d0a0a20706d6976206773688a89b8d8211d09",
+      "pointerOffsets": [
+        1396524
+      ]
+    },
+    {
+      "offset": "15262a",
+      "translation": "<09><06:05><1B>你說什麼！<1D>\n\n <09>\n\n<1B>在你跟哥哥比賽之前，\n\n我絕對不離開你栗！<1D><09>\n\n<06:00><1B>怎麼辦，<KANJI:80><KANJI:81><KANJI:82>？\n\n要帶栗<KANJI:81><KANJI:82>一起走嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906051b757660211d0a0a20090a0a1b618d71ac8d74206cae639f6d897f9b0a0a20657f646687207a758a7562b8d8211d090a0a06001b9c636d89200580058105823f0a0a20b8d8058105826020728a73626879663f1d09",
+      "pointerOffsets": [
+        1396396
+      ]
+    },
+    {
+      "offset": "1527ca",
+      "translation": "<09><1B>哇哇哇？！<KANJI:80><KANJI:81><KANJI:82>！\n\n饒了我吧！<1D><09>\n\n<1B>拜託你\n\n別再來我這裡玩了！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b618c8c8c8c3f21200580058105826b8d0a0a20836320668da08d206c7368986b62861d090a0a1b83632063719b20616f9f797a0a0a20866c7368986b62751d09",
+      "pointerOffsets": [
+        1394376
+      ]
+    },
+    {
+      "offset": "15294d",
+      "translation": "<09><1B>哎呀呀，<KANJI:80><KANJI:81><KANJI:82>！\n\n真是沒話說了<0D><1D><09>\n\n<1B>我實在敵不過你，\n\n今天就到這裡吧<0D><1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6188ac88ac200580058105826b8d210a0a2062847a8420758d74830d1d090a0a1b0580058105826b8d767a206675627f6e8d840a0a2067ae637a206a8a9b0d1d09",
+      "pointerOffsets": [
+        1394496
+      ]
+    },
+    {
+      "offset": "152b1d",
+      "translation": "<09><1B>哎呀？！<KANJI:80><KANJI:81><KANJI:82>？<1D>\n\n <09>\n\n<1B>今天還特地\n\n帶著<KANJI:9A><KANJI:81><KANJI:82>一起來啊。<1D><09>\n\n<1B>喔，\n\n嗯嗯<0D><1D><09>\n\n<1B>原來如此！<1D>\n\n <09>\n\n<1B>這麼說來，\n\n是冒牌貨在作亂啊。<1D><09>\n\n<1B>既然是這樣，\n\n早點告訴我嘛。<1D><09>\n\n<1B>來來來，\n\n請進，請進！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b65843f21200580058105826b8d3f1d0a0a20090a0a1b67ae637a209273627862760a0a20059a058105826b8d83209262af6cae9b1d090a0a1b7daa2d0a0a207c81207c810d1d090a0a1b6f63758d9861211d0a0a20090a0a1baf736a747a20c6bed3c98e0a0a20dcd96b6c7370af738d9b6d781d090a0a1b6f8d7587206f63740a0a2062af73688a7568af71ac1d090a0a1b6b6baf0a0a209c6397209c6397211d09",
+      "pointerOffsets": [
+        1394588
+      ]
+    },
+    {
+      "offset": "153251",
+      "translation": "<09><06:00><1B>喔，<KANJI:80><KANJI:81><KANJI:82>！\n\n那不是遊戲巨斧嗎！<1D><09>\n\n<1B>拿它來跟我的祭典卡片\n\n交換吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906001b65652005800581058221206f8a7a0a0a2085638f797f6b66882094ac756266211d090a0a1bb5d77920657f7288b62dec740a0a206a63668d6c73688a86211d09",
+      "pointerOffsets": [
+        1395032
+      ]
+    },
+    {
+      "offset": "1532f1",
+      "translation": "<09><1B>這裡是<KANJI:9A><KANJI:81><KANJI:82>村，\n\n村裡的祭典可熱鬧了！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6a6a7a20059a058105827905929b6d94ac0a0a2005927f72889b206565768f8c629b6d94ac1d09",
+      "pointerOffsets": [
+        1393612
+      ]
+    },
+    {
+      "offset": "15343b",
+      "translation": "<09><1B>我剛才玩了\n\n福笑拼臉<0D><1D><09>\n\n<1B>拼出來的那張臉，\n\n真好笑，哈哈哈！<1D><09>\n\n<1B>右邊的部件，\n\n原來得放在面對它的左邊呀？！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6baf67207c688c8762600a0a2084af708d98699c780d1d090a0a1b9b67618eaf70206665af70870a0a2065666c68af7320b1caca1d090a0a1b058a79209f7b8d7a208166af730589760a0a20656675627420e8d2757978213f1d09",
+      "pointerOffsets": [
+        1393840
+      ]
+    },
+    {
+      "offset": "1537ca",
+      "translation": "<09><1B>哎呀，<KANJI:80><KANJI:81><KANJI:82><0D>\n\n你找<KANJI:9A><KANJI:81><KANJI:82>有什麼事？<1D><09>\n\n<1B><KANJI:9A><KANJI:81><KANJI:82>應該在\n\n神社深處的修行場吧。<1D><09>\n\n<1B>他總是在那裡\n\n埋頭苦練呢。<1D><09>\n\n<1B>可不像你，\n\n哼！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6187200580058105826b8d0d0a0a20059a058105826b8d7620758d792086633f1d090a0a1b059a058105826b8d758720948d94ac79206568790a0a206cad8fae639d2094ac7562666c871d090a0a1b627283206f6a9b20679e6c620a0a206cad8fae63762063716a8d9b62898c1d090a0a1b6175707420718eaf73780a0a20ccdd211d09",
+      "pointerOffsets": [
+        1393436
+      ]
+    },
+    {
+      "offset": "153b40",
+      "translation": "<09><1B>今晚也有那個！\n\n呵呵呵。<1D><09>\n\n<1B>就是太期待那個，\n\n才忍不住又住旅店啦！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6a8d848320b1da8e210a0a20cccccc1d090a0a1bb1da8e2070796c809b2072620a0a20849c05a87620747faf71ac638d988678211d09",
+      "pointerOffsets": [
+        1394092
+      ]
+    },
+    {
+      "offset": "153d5d",
+      "translation": "<09><1B>選選糰子\n\n好難啊<0E>！<1D><09>\n\n<1B>以為是紅豆糰子，卻是泥丸！\n\n上當了<0E>！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b64878d9b988d927a0a0a208195666c62750e211d090a0a1b618d6a7920988d9274206583af70870a0a20ecdb988d922120987f6b8a700e21211d09",
+      "pointerOffsets": [
+        1394232
+      ]
+    },
+    {
+      "offset": "153eb5",
+      "translation": "<09><06:22><1B>哎呀！你有一張\n\n和我一模一樣的面具呢。<1D><09>\n\n<1B>我想仔細看看！\n\n讓我好好瞧瞧吧！<1D><09>\n\n<06:63><KANJI:80><KANJI:81><KANJI:82>\n\n把面具拿給她看。<09>\n\n<06:22><1B>謝謝你，<KANJI:80><KANJI:81><KANJI:82>！\n\n真想每天都看著它呢！<1D><09>\n\n<1B>這是一點謝禮，\n\n請你收下吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906221b618721208c706c760a0a206faf688875206505a9602065837178aa1d090a0a1b8668208070628c2d210a0a206f8a20866820806e7368986b6275211d090a0a06630580058105827a0a0a6505a96020806e73619170090a0a06221b61888e746321200580058105826b8d0a0a207f62767120758e8273206270628c78211d090a0a1b658a6276206a8a600a0a20636974af732068986b6275211d09",
+      "pointerOffsets": [
+        1395848
+      ]
+    },
+    {
+      "offset": "1553c1",
+      "translation": "<09><06:14><1B><KANJI:80><KANJI:81><KANJI:82>啊！\n\n房間都被獎盃塞滿了！<1D><09>\n\n<1B>多成這樣，\n\n非得再蓋個房間不可了！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906141b058005810582842120c4dbccf82d9b0a0a207d848e2062afa26294ac211d090a0a1b6a8d75762070686b8d98740a0a2005a705a89b83207268878d742062668d75211d09",
+      "pointerOffsets": [
+        1400520
+      ]
+    },
+    {
+      "offset": "155566",
+      "translation": "<09><06:14><1B>真厲害啊，<KANJI:80><KANJI:81><KANJI:82>！\n\n你是讓我們驕傲的孫子呢。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906141b6a88ac7f70206d92627520058005810582210a0a208c6c877920947f8d79207f9294ac731d09",
+      "pointerOffsets": [
+        1400436
+      ]
+    },
+    {
+      "offset": "15597c",
+      "translation": "<09><06:14><1B><KANJI:80><KANJI:81><KANJI:82>，前幾天\n\n有人寄了這個來喔！<1D><09>\n\n<06:63><KANJI:80><KANJI:81><KANJI:82>\n\n接過了信。<09>\n\n竟然！\n\n信是《<KANJI:80><KANJI:86>指南》寄來的！<09>\n\n裡面會裝著什麼呢？\n\n <09>\n\n竟然！\n\n上面寫著「中獎了」！<09>\n\n心裡\n\n有點高興！<09>",
+      "status": "translated-draft",
+      "sourceHex": "0906141b05800581058286206a79616298206a8d7583798e0a0a20749c627365af7097211d090a0a06630580058105827a0a0a738e806020636974af70090a0a758d74210a0a738e807a2005800586deb2ecefffb8668798af70090a0a75768e207a62af732062897966753f0a0a20090a0a758d74210a0a617088212074206662736189090a0a71aeaf740a0a638a6c6875af702109",
+      "pointerOffsets": [
+        1400184
+      ]
+    },
+    {
+      "offset": "155c0a",
+      "translation": "<09><06:15><1B>喔，<KANJI:80><KANJI:81><KANJI:82>！<1D>\n\n <09>\n\n<1B>你是我們\n\n引以為傲的孫子啊！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906151b656520058005810582211d0a0a20090a0a1b657f647a208c6c87790a0a20947f8d79207f9294ac731d09",
+      "pointerOffsets": [
+        1400632
+      ]
+    },
+    {
+      "offset": "156080",
+      "translation": "<09><06:08><1B>這樣就\n\n能通過去了呢！<1D><09>\n\n<1B>這座銅像\n\n就交給我吧。<1D><09>\n\n<1B>穿過這個洞，\n\n就是開花村呢！<1D><09>\n\n<1B>再往前走，\n\n就是<KANJI:9A><KANJI:81><KANJI:82>村了呢！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906081b6a8a9b207465896a748e0a0a209b678979788d211d090a0a1b6a79209c6397637a0a0a20f1b876207f666e7320656879788d1d090a0a1b6a7961756020776989740a0a207a756b66790592207579788d211d090a0a1b6f796b677620059a058105827905927a0a0a20618979788d211d09",
+      "pointerOffsets": [
+        1405648
+      ]
+    },
+    {
+      "offset": "15660a",
+      "translation": "<09><06:03><1B>柿呀！\n\n<KANJI:80><KANJI:81><KANJI:82>也太不成材了吧！<1D><09>\n\n<1B>我可真厲害！\n\n最棒啦！<1D><09>\n\n<1B>你先去玩其他遊戲，\n\n多修行修行吧！<1D><09>\n\n<1B><KANJI:80><KANJI:81><KANJI:82>！在那之前，\n\n比賽就先擱著吧！<1D><09>\n\n<06:05><1B>在那之前，\n\n我會盯著<KANJI:80><KANJI:81><KANJI:82>先生栗！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906031bb6b72dff210a0a20058005810582832098876c75627561211d090a0a1bb5b2d7af7320bdffe12d94ac8d210a0a20bbb2ba2d211d090a0a1b83af74207e66792085638f9b0a0a206cad8fae63206c7368897420626297211d090a0a1b05800581058221206cae639f7a0a0a206f8a7f9b20656195699862211d090a0a06051b6f8a7f9b20b5d77a0a0a200580058105826b8d6020807aaf7389b8d8211d09",
+      "pointerOffsets": [
+        245924
+      ]
+    },
+    {
+      "offset": "156c3e",
+      "translation": "<09><06:03><1B>柿呀！別這麼說嘛，\n\n拜託你啦！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906031bb6b72dff21206f8d756a740a0a20628c95762065788e629886211d09",
+      "pointerOffsets": [
+        1406068
+      ]
+    },
+    {
+      "offset": "156dcd",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>\n\n查看了牆壁！<09>\n\n竟然！\n\n找到一個可疑的開關。<09>\n\n要按下去嗎？\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105827a0a0ab6f060206c87a07021090a0a758d74210a0a61846c6220bdb2ffc1602080726970090a0a656c73807f6d663f0a0a2009",
+      "pointerOffsets": [
+        246296
+      ]
+    },
+    {
+      "offset": "156ea1",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>\n\n查看了門。<09>\n\n竟然！\n\n門打開了！<09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105827a0a0a749e8760206c87a070090a0a758d74210a0a749e878e207b8762702109",
+      "pointerOffsets": [
+        1405936
+      ]
+    },
+    {
+      "offset": "15701d",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>\n\n查看了牆壁！<09>\n\n竟然！\n\n牆壁是一幅桃子拼圖！<09>\n\n<06:05><1B>解開這幅桃子拼圖後，\n\n最後會出現一片拼圖。<1D><09>\n\n<1B>只要把火焰調成\n\n上面畫的達摩的顏色，<1D><09>\n\n<1B>中間那扇門\n\n就會打開了！<1D><09>\n\n<1B>哥哥是怕\n\n自己忘記門上火焰的組合，<1D><09>\n\n<1B>才特地\n\n做了這個機關！<1D><09>\n\n<1B>怎麼樣！厲害吧！\n\n有本事就解開看看啊！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105827a0a0ab6f060206c87a07021090a0a758d74210a0ab6f07a200580f2e5d998af7021090a0a06051b6a79200580f2e5d960207468740a0a206b6292762031f32dbd209b7368898d981d090a0a1b6f6a7620666273618920e8d9cf790a0a20628b76207e79656020beffc46d8a9d1d090a0a1b7f8d75667920749e878e0a0a207b8768206c6669758d98211d090a0a1b618d71ac8d8e0a0a20749e8779207e796579206880618c6e601d090a0a1b8c6d8a71ac63740a0a20626975626687af73207268af708d98211d090a0a1b9c639821206d9262988b210a0a20746989838d7587207462738075211d09",
+      "pointerOffsets": [
+        246004
+      ]
+    },
+    {
+      "offset": "15785c",
+      "translation": "<09><1B>寢<KANJI:81><KANJI:82>睡覺的村子，\n\n就叫作寢<KANJI:81><KANJI:82>村。<1D><09>\n\n<1B>還真是照字面取名啊，哈哈哈！<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "091b780581058279207873628905920a0a2078058105827905927420869d8a73627f6d1d090a0a1b6f797f8d7f94ac75207aaf7aaf7a211d0a0a2009",
+      "pointerOffsets": [
+        1410840
+      ]
+    },
+    {
+      "offset": "157a48",
+      "translation": "<09><1B>原來你知道啊！\n\n真是人不可貌相呢。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6f6366206caf7365897966210a0a2065776c208066697686879520848979ab1d09",
+      "pointerOffsets": [
+        1412108
+      ]
+    },
+    {
+      "offset": "157ae7",
+      "translation": "<09><1B>呼嚕呼嚕<0D><1D>\n\n <09>\n\n看起來睡得很舒服。\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "091b90a990a90d1d0a0a20090a0ab7d3c1866b6f637620787362898663980a0a2009",
+      "pointerOffsets": [
+        1411948,
+        1412028
+      ]
+    },
+    {
+      "offset": "157ccc",
+      "translation": "<09><1B>希望<KANJI:96><KANJI:97>整座城\n\n就像一場祭典呢！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b67a163059605977a206f6a9470628e0a0a20657f72888070629886211d09",
+      "pointerOffsets": [
+        1411036
+      ]
+    },
+    {
+      "offset": "157da4",
+      "translation": "<09><1B>這裡是因寢<KANJI:81><KANJI:82>居住\n\n而聞名的寢<KANJI:81><KANJI:82>村！<1D><09>\n\n<1B>直到最近，\n\n東西兩邊才終於相通。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6a6a7a2078058105828e206d816a749b0a0a2085638262752078058105827905929b6d211d090a0a1b7262206b62678d0a0a207b8e6c7420766c8e2072758e887f6c701d09",
+      "pointerOffsets": [
+        1411120
+      ]
+    },
+    {
+      "offset": "158078",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>\n\n交出了堇菜。<09>\n\n<1B>謝謝你！\n\n我馬上就去展開追求！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105827a0a0a6d808a60208c706c70090a0a1b61888e7463209293627f6d210a0a206baf6f6820627f668720b1c0ffb898211d09",
+      "pointerOffsets": [
+        1412404
+      ]
+    },
+    {
+      "offset": "15819c",
+      "translation": "<09><1B>這是一點謝禮，請收下！\n\n來，別客氣！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b658a6276206a8a602065837168986b62210a0a206b6b209c6397209c6397211d09",
+      "pointerOffsets": [
+        1412364
+      ]
+    },
+    {
+      "offset": "15825e",
+      "translation": "<09><1B>剛才有個男人過來，\n\n送了我堇菜！<1D><09>\n\n<1B>可是堇菜的花語，\n\n只有「小小的幸福」吧！<1D><09>\n\n<1B>我想要的，\n\n可是好多好多的幸福呢！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6baf672065746a79058f8e2067730a0a206d808a60208387af7079211d090a0a1b9b83206d808aaf732071626b750a0a206c618c6e206c662075629b6cae63211d090a0a1b8c706c7a2070686b8d790a0a206c618c6e8e207e6c6279211d09",
+      "pointerOffsets": [
+        1412968
+      ]
+    },
+    {
+      "offset": "158540",
+      "translation": "<09><1B>這下終於能如願\n\n和東邊那老頭一決高下了！<1D><09>\n\n<1B>等著瞧吧，\n\n東邊的老頭！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6a8a9b20788d8e8d79207b8e6c790a0a20949462747920706269728e211d090a0a1b7faf73658a860a0a207b8e6c7920949462211d09",
+      "pointerOffsets": [
+        1411340
+      ]
+    },
+    {
+      "offset": "1592da",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>\n\n使用了飯糰村鑰匙！<09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105827a0a0a65816d9e059279b6df60207266af702109",
+      "pointerOffsets": [
+        1417172
+      ]
+    },
+    {
+      "offset": "159309",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>\n\n消耗了卡路里！<09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105827a0a0ab6dbd82d60206cae637b6c702109",
+      "pointerOffsets": [
+        246836
+      ]
+    },
+    {
+      "offset": "159482",
+      "translation": "<09><06:07><1B>真不巧，村長去\n\n喀嚓喀嚓村參加祭典了！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906071b616276687420059205a07a20b6c1b6c1790592790a0a20657f7288762062af73898d9b6d86211d09",
+      "pointerOffsets": [
+        1418524
+      ]
+    },
+    {
+      "offset": "15954b",
+      "translation": "<09><06:07><1B>哎呀呀，<KANJI:80><KANJI:81><KANJI:82>！\n\n你是不是吃太多啦！<1D><09>\n\n<1B>胖成這樣，\n\n可鑽不出洞口喔！<1D><09>\n\n<1B>要認真\n\n減肥才行喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906071b6188ac88ac200580058105826b8d210a0a2070a06d8f71ac627f6c7066211d090a0a1b6f8d7576207c74af7371ac610a0a2061756687209b878a7f6e8d86211d090a0a1b6caf66880a0a20e8b2b4ffc4206c7368986b6278211d09",
+      "pointerOffsets": [
+        1418424
+      ]
+    },
+    {
+      "offset": "159839",
+      "translation": "<09><1B>怎麼了，<KANJI:80><KANJI:81><KANJI:82>？\n\n怎麼胖成這個樣子呀？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b9c636c708d9b6d663f200580058105826b8d0a0a206f8d7576207c74af73206c7faf731d09",
+      "pointerOffsets": [
+        1417400
+      ]
+    },
+    {
+      "offset": "1598c4",
+      "translation": "<09><1B>村長已經\n\n跑去<KANJI:9A><KANJI:81><KANJI:82>村了喔！<1D><09>\n\n<1B>他一直都很想去，\n\n也沒辦法呀！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b059205a0758720059a05810582790592760a0a2062af71ac627f6c7086211d090a0a1b6267708eaf73207f6c70668778aa210a0a206c667075629b6d86211d09",
+      "pointerOffsets": [
+        1417376
+      ]
+    },
+    {
+      "offset": "159b19",
+      "translation": "<09><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n快把門打開吧！<1D><09>\n\n<1B>只有那把<03:15>飯糰村鑰匙<04>\n\n才能打開這扇門喔。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b0580058105826b8d21207a84680a0a20749e87602061697368986b6275211d090a0a1b6f7920031565816d9e059279b6df049b6c660a0a206a7920749e877a20616675628d9b6d861d09",
+      "pointerOffsets": [
+        1417932
+      ]
+    },
+    {
+      "offset": "159ee5",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>\n\n查看了桌子！<09>\n\n桌上擺滿了\n\n看起來很好吃的食物！<09>\n\n<KANJI:80><KANJI:81><KANJI:82>\n\n口水都快流出來了！<09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105827a0a0ac32defd960206c87a07021090a0a65626c6f63752070a083798e0a0a75878d9b628921090a0a0580058105827a0a0a86988a8e209b6f637675af702109",
+      "pointerOffsets": [
+        1417252
+      ]
+    },
+    {
+      "offset": "15a751",
+      "translation": "<09><1B>歡迎啊，<KANJI:80><KANJI:81><KANJI:82>！\n\n還記得我嗎！<1D><09>\n\n<1B>我叫風神，\n\n能夠操縱風喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b8668677075200580058105826b8d210a0a208c6c796a74602065a16473628966211d090a0a1b8c6c7920757f647a207c63948d210a0a2066966020618472896a748e9b678997211d09",
+      "pointerOffsets": [
+        1422780
+      ]
+    },
+    {
+      "offset": "15ad50",
+      "translation": "<09><06:05><1B>請救救哥哥！\n\n<KANJI:80><KANJI:81><KANJI:82>先生！救救他栗！<1D><09>\n\n<06:12><1B>好吧，<KANJI:80><KANJI:81><KANJI:82>！\n\n不如這樣吧！<1D><09>\n\n<1B>只要你們贏得地獄名產\n\n嘿唷划船賽，<1D><09>\n\n<06:05><1B>贏了的話<0D>？<1D>\n\n <09>\n\n<06:12><1B>只要你們贏了，\n\n我就不追究他的罪！<1D><09>\n\n<06:05><1B><0D>桃、桃、<KANJI:80><KANJI:81><KANJI:82>先生！\n\n哥哥肯定贏不了啊<0E>！<1D><09>\n\n<1B><KANJI:80><KANJI:81><KANJI:82>先生！拜託你！\n\n救救哥哥栗！<1D><09>\n\n<06:12><1B>如何，<KANJI:80><KANJI:81><KANJI:82>？\n\n要代替柿<KANJI:81><KANJI:82>試試看嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906051b618d71ac8d6020706d697368986b62210a0a200580058105826b8d2120706d6973b8d8211d090a0a06121b8c66af7021200580058105826b8d210a0a206a63206c86632094ac756266211d090a0a1b94926882629f72790a0a20648d84af74af74da2dbd9b20667370871d090a0a06051b667370870d3f1d0a0a20090a0a06121b657f6470718e20667370870a0a207280602080798e6c73848b63211d090a0a06051b0d20832083200580058105826b8d210a0a20618d71ac8d94ac2066737562860e211d090a0a1b0580058105826b8d212065788e62210a0a20618d71ac8d6020706d6973b8d8211d090a0a06121b9c636d89200580058105826b8d3f20b6b705810582790a0a20668c88762084af73808966783f1d09",
+      "pointerOffsets": [
+        247500
+      ]
+    },
+    {
+      "offset": "15b8c5",
+      "translation": "<09><06:26><1B>嗚哇，嗚哇！\n\n別這樣嘛，拜託你啦！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906261bb42ddd20b42ddd210a0a206f8d75a72065788e629886211d09",
+      "pointerOffsets": [
+        1426348
+      ]
+    },
+    {
+      "offset": "15b8e3",
+      "translation": "<09><06:26><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n我的媽媽呢？！<1D><09>\n\n<1B>你會幫我找吧？\n\n我想她就在這附近！<1D><09>\n\n<1B>別放棄，\n\n陪我一起找嘛。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906261b0580058105826b8d210a0a20b5b2d7792065666171ac8d7a3f211d090a0a1b6b8e6c7320688a898d9b6cae3f0a0a206a7961708876206289746583638d98211d090a0a1b6167878275629b0a0a2062af6cae76206b8e6c7365688a861d09",
+      "pointerOffsets": [
+        1426900
+      ]
+    },
+    {
+      "offset": "15ba01",
+      "translation": "<09><06:0B><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n你已經來了呀？！<1D><09>\n\n<1B>我好不容易\n\n才查到是在這裡呢！<1D><09>\n\n<1B>果然還是\n\n比不上<KANJI:80><KANJI:81><KANJI:82>啊！<1D><09>\n\n<1B>總之，迷路孩子的母親\n\n找到了，真是太好了！<1D><09>\n\n<1B>對了，<KANJI:80><KANJI:81><KANJI:82>！<1D>\n\n <09>\n\n<1B>花開爺爺\n\n正在找你喔！<1D><09>\n\n<1B>我們一起\n\n回開花村吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "09060b1b0580058105826b8d210a0a206773708d9b6d663f211d090a0a1b866384680a0a206a6a98af732072677482708d9b6d86211d090a0a1b84afa2880a0a200580058105826b8d767a2066758c756284211d090a0a1b74836668207f629279207a7a65848e0a0a20807266af73208666af709b6d78211d090a0a1b746a8b9b200580058105826b8d211d0a0a20090a0a1b7a756b6694626b8d8e200580058105826b8d600a0a206b8e6c7362898d9b6d86211d090a0a1b62af6cae760a0a207a756b667905927620839c887f6cae63211d09",
+      "pointerOffsets": [
+        1426728
+      ]
+    },
+    {
+      "offset": "15bf8d",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>\n\n查看了腳下。<09>\n\n竟然！\n\n找到一張祭典卡片！<09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105827a0a0a616c837460206c87a070090a0a758d74210a0a657f7288b62dec6020807269702109",
+      "pointerOffsets": [
+        1427516
+      ]
+    },
+    {
+      "offset": "15c8e1",
+      "translation": "<09><1B>這裡是乙姬大人\n\n居住的龍宮城。<1D><09>\n\n<1B><KANJI:80><KANJI:81><KANJI:82>！\n\n歡迎您的到來。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6a6a7a206574058d6b7f8e0a0a206d812088ad63906394ae631d090a0a1b0580058105826b8d210a0a2086636a6f206287af6cac627f6c701d09",
+      "pointerOffsets": [
+        1429864
+      ]
+    },
+    {
+      "offset": "15c9d3",
+      "translation": "<09><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n您看起來精神很好，真是太好了！<1D><09>\n\n<1B>乙姬大人也很安好喔！<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "091b0580058105826b8d210a0a2065918d676f639b20757686889b6d211d090a0a1b6574058d6b7f832065918d679b6d86211d0a0a2009",
+      "pointerOffsets": [
+        1430004
+      ]
+    },
+    {
+      "offset": "15cda5",
+      "translation": "<09><06:0D><1B><03:15>真實之鏡<04>不僅\n\n能映照出外貌，<1D><09>\n\n<1B>也能映照出\n\n真實的內心。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "09060d1b03156c8d947279b6ded0047a206d8e70667071600a0a2063726c986d98699b7a2061887f6e8d1d090a0a1b6c8d947279206a6a8b830a0a2063726c986d6a748e209b6789799b6d1d09",
+      "pointerOffsets": [
+        1430408
+      ]
+    },
+    {
+      "offset": "15cec5",
+      "translation": "<09><06:0D><1B>這樣啊，真可惜呢<0D><1D>\n\n <09>\n\n<1B>改變心意時，請告訴我。\n\n我會等著您的！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "09060d1b6f639b6d6620938d788d9b6d780d1d0a0a20090a0a1b678e668caf708720656c647368986b620a0a208c706c7a207faf73627f6d8c211d09",
+      "pointerOffsets": [
+        1430284
+      ]
+    },
+    {
+      "offset": "15cfc0",
+      "translation": "<09><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n只要使用真實之鏡，<1D><09>\n\n<1B>應該馬上就能\n\n看清真相了！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b0580058105826b8d210a0a206c8d947279b6ded060207266649d1d090a0a1b70719c6a8b76206c8d94728e0a0a2080647368896a749b6cae63211d09",
+      "pointerOffsets": [
+        1430544
+      ]
+    },
+    {
+      "offset": "15ddba",
+      "translation": "<09><1B>欸欸，<KANJI:80><KANJI:81><KANJI:82>！\n\n想知道<03:15>遊戲名人<04>的事嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b7864207864200580058105826b8d210a0a20031585638f058e058f04796a7420676770623f1d09",
+      "pointerOffsets": [
+        1436244
+      ]
+    },
+    {
+      "offset": "15dfa3",
+      "translation": "<09><1B>原來你想知道啊！\n\n好啊，好啊！<1D><09>\n\n<1B><03:15>祭典卡片<04>這東西，\n\n現在可是很流行呢！<1D><09>\n\n<1B>在各式各樣的地方，\n\n都能拿得到！<1D><09>\n\n<1B>旅行途中，\n\n也會有人送給你吧！<1D><09>\n\n<1B>但是<0E>呢！<1D>\n\n <09>\n\n<1B>就算拿到了，\n\n沒有<03:15>卡片相簿<04>的話<0D><1D><09>\n\n<1B>連自己都不能看！\n\n當然也不能拿給別人看！<1D><09>\n\n<1B>去找<03:15>卡片仙人<04>，\n\n拿到<03:15>卡片相簿<04>之後<0D><1D><09>\n\n<1B>就再回來\n\n找我一趟吧！<1D><09>\n\n<1B>還有，在遊戲屋成為<KANJI:83><KANJI:84><KANJI:85><KANJI:86>，\n\n應該也能拿到一張！<1D><09>\n\n<1B>雖然我不知道\n\n總共有多少張，<1D><09>\n\n<1B>但要是全部收齊，\n\n肯定很值得炫耀吧！<1D><09>\n\n<1B>想再聽我\n\n說一次嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6f6366206c887062799878210a0a206f6366206f6366211d090a0a1b0315657f7288b62dec04747a0a0a20627f20717f709b20cad4af73627375211d090a0a1b628b628b75746a8b9b0a0a207376628a896a748e209b678997211d090a0a1b709e79207471ad639b0a0a20688a89058f83206289988b63211d090a0a1b988e206c660e6c211d0a0a20090a0a1b7376628a73830a0a200315b62decb1d9edd1048e2075698a9d0d1d090a0a1b80896a7483209b677562210a0a2083718b8d20058f768320806e878a7562211d090a0a1b0315b62dec059d058f0460206b8e6c730a0a200315b62decb1d9edd10460207376628a730d1d090a0a1b6f636c708720836362719c0a0a208c706c79746a8b7d206889746262211d090a0a1b617420616f9e05a705a89b200583058405850586760a0a207589742031058c20838764897a9598211d090a0a1b968d9f9b209c79688762790a0a20058c6d637620758979667a208c66878d8e1d090a0a1b968d9f6172828974206675880a0a20947f8d79c0c876209b6789988b63211d090a0a1b83632062719c0a0a207a756c60206767706266783f1d09",
+      "pointerOffsets": [
+        1436356
+      ]
+    },
+    {
+      "offset": "15f294",
+      "translation": "<09><1B>這是挖寶的訣竅喔！\n\n要仔細聽喔！<1D><09>\n\n<1B>不只寶箱，\n\n石頭也要仔細調查！<1D><09>\n\n<1B>木桶、花朵，任何可疑的東西，\n\n全<0E>部都要查！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091be3ffb8e3b87920bac29b6cad210a0a2086682067689b6cad211d090a0a1b729a8798692094ac7568af730a0a20628c832067af7188206c87a08979211d090a0a1bb5b983207a758320758d9b8320668d9b830a0a2061846c6283797a20960e8d9f211d09",
+      "pointerOffsets": [
+        1439880
+      ]
+    },
+    {
+      "offset": "15f4fe",
+      "translation": "<09><1B>好久不見，\n\n<KANJI:80><KANJI:81><KANJI:82>！<1D><09>\n\n<1B>輝夜姬大人似乎\n\n喜歡擅長尋寶的人呢。<1D><09>\n\n<1B><KANJI:80><KANJI:81><KANJI:82>，\n\n你也要加油喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b657b6b6c9f889b6d0a0a200580058105826b8d211d090a0a1b669084058d6b7f7a207066876b8e6c8e0a0a206574686275058f8e2065bdb77586639b6d1d090a0a1b0580058105826b8d830a0a208e8d9daf7368986b62781d09",
+      "pointerOffsets": [
+        1439964
+      ]
+    },
+    {
+      "offset": "160052",
+      "translation": "<09><06:01><1B>謝謝您！\n\n<KANJI:80><KANJI:81><KANJI:82>！<1D><09>\n\n<1B>請收下這張祭典卡片！<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "0906011b61888e74639293627f6d210a0a200580058105826b8d211d090a0a1b657f7288b62dec60209c6397211d0a0a2009",
+      "pointerOffsets": [
+        1446588
+      ]
+    },
+    {
+      "offset": "160125",
+      "translation": "<09><06:0C><1B><KANJI:80><KANJI:81><KANJI:82>，\n\n您一切都好嗎！<1D><09>\n\n<1B>我是龍宮城的烏龜呀！\n\n之前真是多虧您照顧了。<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "09060c1b0580058105826b8d0a0a2065918d679b6c7066211d090a0a1b88ad63906394ae637920b6d29b6d86210a0a20628b628b7420656e8c7675887f6c701d09",
+      "pointerOffsets": [
+        1447404
+      ]
+    },
+    {
+      "offset": "160466",
+      "translation": "<09><06:0C><1B>你好，<KANJI:80><KANJI:81><KANJI:82>！\n\n前些日子謝謝您了！<1D><09>\n\n<1B>要我帶您\n\n去龍宮城嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "09060c1b8461200580058105826b8d210a0a206a796162987a209c6383211d090a0a1b88ad63906394ae63760a0a2065728a6c7f6cae63663f1d09",
+      "pointerOffsets": [
+        1447476
+      ]
+    },
+    {
+      "offset": "160588",
+      "translation": "<09><06:16><1B>我是傳助，咚咚！\n\n正在挖洞呢！<1D><09>\n\n<1B>啊，你是！\n\n在並排洞窟遇到的<0D><1D><09>\n\n<1B><KANJI:80><KANJI:81><KANJI:82>！\n\n沒想到又見面了！<1D><09>\n\n<1B>什麼什麼<0D><1D>\n\n <09>\n\n<1B>你說烏龜肚子痛，\n\n痛得很難受？<1D><09>\n\n<1B>那還真是\n\n不得了啊，咚咚！<1D><09>\n\n<1B>對了！這個洞穴深處，\n\n有好多寶箱呢！<1D><09>\n\n<1B>雖然裡面的東西\n\n我不是全都記得，<1D><09>\n\n<1B>但好像有張什麼<03:15>處方箋<04>\n\n放在裡面<0D><1D><09>\n\n<1B>要進洞穴找的話，\n\n可得小心啊，咚咚！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0906161bb5b2d7209b8d6d69209b8d9b8d210a0a20617560207eaf736289796b211d090a0a1b6120618d707a210a0a2075879e9c6368729b2061af700d1d090a0a1b0580058105826b8d210a0a207f7020616489747a211d090a0a1b75762075760d1d0a0a20090a0a1b6575668e20627068730a0a20b6d28e2068896c8d9b89af733f1d090a0a1b6f88ac207f700a0a2070627d8d982d209b8d9b8d211d090a0a1b6f639821206a7920617579206568767a0a0a20729a878e2062afa2622061af7075211d090a0a1b75668020968d9f7a0a0a2065a1647320627562699c1d090a0a1b706c6620757666792003156cae7e636e8d048e0a0a207a62af736270208663750d1d090a0a1b617579756660206b8e6daf7362638d75870a0a20676072697362688d9878209b8d9b8d211d09",
+      "pointerOffsets": [
+        1446996
+      ]
+    },
+    {
+      "offset": "160c22",
+      "translation": "<09><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n不是我們做的啊！<1D><09>\n\n<1B>是真的！\n\n是我們先發現的呢。<1D><09>\n\n<06:0A><1B><KANJI:80><KANJI:81><KANJI:82>！\n\n這是真的。<1D><09>\n\n<1B>因為是鬼族們\n\n來拜託我們的呀！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b0580058105826b8d210a0a20b5b2d7707194ac75628d9886211d090a0a1bceddc49886210a0a20b5b2d770718e20807269708d9866871d090a0a060a1b0580058105826b8d210a0a207e8d74639b6d861d090a0a1bb5c66b8d7071760a0a2070797f8a708d9b6d6687211d09",
+      "pointerOffsets": [
+        1446408
+      ]
+    },
+    {
+      "offset": "160fbf",
+      "translation": "<09><1B>只顧著胡亂投擲，\n\n只會被鬼族躲開喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b8e816cac877620759173830a0a20b5c6707176208669878a89986994ac211d09",
+      "pointerOffsets": [
+        1446200
+      ]
+    },
+    {
+      "offset": "161904",
+      "translation": "<09><1B>碰碰咚！\n\n龜兔賽跑就在這裡喔！<1D><09>\n\n<1B>一次100<KANJI:8B>，\n\n<KANJI:80><KANJI:81><KANJI:82>也要下注看看嗎？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bf6ddf6bad8dd210a0a20b3bbb6d2da2dbd7587206a6a9b6d86211d090a0a1b31059e20313030058b9b6d8e0a0a200580058105826b8d8320666973807f6d663f1d09",
+      "pointerOffsets": [
+        248256
+      ]
+    },
+    {
+      "offset": "161e47",
+      "translation": "<09><1B>在這個房間，\n\n可以替龜兔賽跑下注喔！<1D><09>\n\n<1B>請務必參加！<1D>\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6a7905a705a89b20b3bbb6d2da2dbd760a0a206669896a748e209b677f6d86211d090a0a1b967b2120926b8d6668986b62211d0a0a2009",
+      "pointerOffsets": [
+        1454704
+      ]
+    },
+    {
+      "offset": "161f20",
+      "translation": "む<KANJI:82>！\n\n那不是秋刀魚嗎！<1D><09>\n\n<1B>我正愁著\n\n沒有配飯的菜呢！<1D><09>\n\n<1B>能不能拿它\n\n跟我的祭典卡片交換呀？<1D><09>",
+      "status": "excluded-nontext",
+      "reason": "假指標造成的母句內部片段，非獨立缺譯：161f20 是已完整翻譯母句 161f18 的 <KANJI:81> 操作數，不是 token 邊界。a2b2c 的 08161f20 位於 PCM 樣本 a2694..aa5b9：51960 -> 曲目頭 12fdd8，+4 -> 樂器表 4fc78，第 5 筆 12-byte 記錄 4fcb4 的 wave 指標 4fcb8 -> a2684；16-byte wave header 宣告 0x7f25 bytes。此匹配為樣本資料而非文字指標，禁止重定向。tools/full-inventory.mjs 可重驗容器、母句 bytes 與 token 邊界。只排除假候選，不宣告母句自然流程或畫面已驗證；原 sourceHex、pointerOffsets 和候選譯文保留。",
+      "sourceHex": "8105826b8d210a0a206f8a7a20bbddcf94ac78aa6662211d090a0a1b927a8d79206566958e20756875af730a0a206a7faf73708d98211d090a0a1bb5b2d77920657f7288b62dec740a0a206a63668d206c73688a78aa663f1d09",
+      "pointerOffsets": [
+        666412
+      ],
+      "boundaryEvidence": {
+        "kind": "interior-of-referenced-text",
+        "containerOffset": "161f18",
+        "containerPointerOffsets": [
+          1455716
+        ],
+        "terminatorOffset": "161f7a",
+        "sourceValidatedAgainstOriginalRom": true,
+        "pointerOwnershipVerified": false
+      }
+    },
+    {
+      "offset": "16201f",
+      "translation": "要是有適合配飯的菜，\n\n就更沒得挑剔了！<1D><09>",
+      "status": "translated-draft",
+      "reason": "原 ROM sourceTokens 核對：16201f 是母句 161fd8 的 token 邊界，共用 162040 終止符。母句明示適合配飯的菜；依此譯出配菜條件。 原 sourceHex、pointerOffsets 與母句關係不變；實際指標呼叫用途及遊戲畫面未驗證。",
+      "sourceHex": "76206163206566958e2061af70870a0a2062636a74756c20758d988e75a7211d09",
+      "pointerOffsets": [
+        1092480
+      ],
+      "boundaryEvidence": {
+        "kind": "interior-of-referenced-text",
+        "containerOffset": "161fd8",
+        "containerPointerOffsets": [
+          1455644
+        ],
+        "terminatorOffset": "162040",
+        "sourceValidatedAgainstOriginalRom": true,
+        "pointerOwnershipVerified": false
+      },
+      "suffixReview": {
+        "status": "reviewed-token-aligned-suffix",
+        "parentOffset": "161fd8",
+        "tokenBoundaryValidated": true,
+        "sharedTerminatorValidated": true,
+        "contextBasis": "母句明示適合配飯的菜；依此譯出配菜條件。",
+        "gameplayVerified": false
+      }
+    },
+    {
+      "offset": "1620af",
+      "translation": "<09><1B>我家那口子真是的，\n\n老是吃個不停！<1D><09>\n\n<1B>這樣還沒看到比賽，\n\n就先胖起來啦！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b7faf706820b3c179058faf70870a0a2070a073209daf6688211d090a0a1b6a8a94ac6120da2dbd602080897f64760a0a207c74af717f6386211d09",
+      "pointerOffsets": [
+        1454732
+      ]
+    },
+    {
+      "offset": "162227",
+      "translation": "經常\n\n會說謊喔！<1D><09>\n\n<1B>所以牠們出賽時，\n\n要仔細聽聽牠們說什麼！<1D><09>",
+      "status": "translated-draft",
+      "reason": "原 ROM sourceTokens 核對：162227 是母句 1621ad 的 token 邊界，共用 162262 終止符。母句以兔子常說謊對比烏龜；後綴保留常說謊與賽前聽取說法的忠告。 原 sourceHex、pointerOffsets 與母句關係不變；實際指標呼叫用途及遊戲畫面未驗證。",
+      "sourceHex": "7a20b3bf600a0a2072686a748e2065656279211d090a0a1b98668720da2dbd76209b897467760a0a207a756c60208668206768742062628c211d09",
+      "pointerOffsets": [
+        442068
+      ],
+      "boundaryEvidence": {
+        "kind": "interior-of-referenced-text",
+        "containerOffset": "1621ad",
+        "containerPointerOffsets": [
+          1454816
+        ],
+        "terminatorOffset": "162262",
+        "sourceValidatedAgainstOriginalRom": true,
+        "pointerOwnershipVerified": false
+      },
+      "suffixReview": {
+        "status": "reviewed-token-aligned-suffix",
+        "parentOffset": "1621ad",
+        "tokenBoundaryValidated": true,
+        "sharedTerminatorValidated": true,
+        "contextBasis": "母句以兔子常說謊對比烏龜；後綴保留常說謊與賽前聽取說法的忠告。",
+        "gameplayVerified": false
+      }
+    },
+    {
+      "offset": "162432",
+      "translation": "想看看呀！<1D><09>\n\n<06:03><1B>卡片相簿？\n\n那是什麼？<1D><09>\n\n<06:63><1B>你不知道嗎？\n\n你可真落伍耶！<1D><09>\n\n<1B><KANJI:80><KANJI:81><KANJI:82>先生，\n\n你總該知道吧？<1D><09>",
+      "status": "translated-draft",
+      "reason": "原 ROM sourceTokens 核對：162432 是母句 16228f 的 token 邊界，共用 162495 終止符。母句明示想看看卡片相簿；後綴譯出想看的語意與後續問答。 原 sourceHex、pointerOffsets 與母句關係不變；實際指標呼叫用途及遊戲畫面未驗證。",
+      "sourceHex": "70628d9b6cad211d090a0a06031bb62decb1d9edd1af733f0a0a207576206f8a3f1d090a0a06631b6c8775628d9b6cad663f0a0a206175702065688a737f6cad86211d090a0a1b7f6b66200580058105826cac8d7a0a0a206caf737f6cad86783f1d09",
+      "pointerOffsets": [
+        394232
+      ],
+      "boundaryEvidence": {
+        "kind": "interior-of-referenced-text",
+        "containerOffset": "16228f",
+        "containerPointerOffsets": [
+          1455828
+        ],
+        "terminatorOffset": "162495",
+        "sourceValidatedAgainstOriginalRom": true,
+        "pointerOwnershipVerified": false
+      },
+      "suffixReview": {
+        "status": "reviewed-token-aligned-suffix",
+        "parentOffset": "16228f",
+        "tokenBoundaryValidated": true,
+        "sharedTerminatorValidated": true,
+        "contextBasis": "母句明示想看看卡片相簿；後綴譯出想看的語意與後續問答。",
+        "gameplayVerified": false
+      }
+    },
+    {
+      "offset": "1629bf",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>\n\n拿出了卡片相簿！<09>\n\n<1B>哇！這就是\n\n卡片相簿呀！<1D><09>\n\n<1B>謝謝你，<KANJI:80><KANJI:81><KANJI:82>先生！<1D>\n\n <09>\n\n<1B>哇！裡面滿滿的\n\n都是祭典卡片呢！<1D><09>\n\n<1B>每張卡片上\n\n都畫著好有趣的插畫！<1D><09>\n\n<1B>要是全部收齊，\n\n一定很棒吧！<1D><09>\n\n<1B>這麼漂亮的卡片相簿，\n\n謝謝你拿給我看！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105827a0a0ab62decb1d9edd160207488986c7021090a0a1b8c2d62af21206a8a8e0a0a20b62decb1d9edd19b6cad78211d090a0a1b61888e7463200580058105826cac8d211d0a0a20090a0a1b8c2d62af2120657f7288b62dec9b0a0a2062afa2629b6cad211d090a0a1b9c8a832070796c6f63750a0a20b2d7bdc48e2066627361899b6cad211d090a0a1b968d9f2061728270870a0a2067af7420bdc3b79b6cad78211d090a0a1b6a8d7520bdc3b77520b62decb1d9edd1210a0a20806e7320688a732061888e749b6cad211d09",
+      "pointerOffsets": [
+        248340
+      ]
+    },
+    {
+      "offset": "162c18",
+      "translation": "<09><1B><KANJI:80><KANJI:81><KANJI:82>先生！\n\n加油，要猜中喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b0580058105826cac8d210a0a208e8d9daf732061737378211d09",
+      "pointerOffsets": [
+        1455984
+      ]
+    },
+    {
+      "offset": "162ced",
+      "translation": "<09><1B>我要參加龜兔賽跑，\n\n但狀態還沒調整好呢。<1D><09>\n\n<1B>得多跑一會兒才行！\n\n嘿咻，嘿咻！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bb3bbb6d2da2dbd76209b898d9b6d8e0a0a207f982071ae636e628e20658c877568731d090a0a1b71aeaf74207a6c886a7f756274210a0a20dcffbe20dcffbe211d09",
+      "pointerOffsets": [
+        1454844
+      ]
+    },
+    {
+      "offset": "162ec2",
+      "translation": "<09><1B>龜兔賽跑要下注的，\n\n是第一到第三名。<1D><09>\n\n<1B>連第三名\n\n都得預測出來喔！<1D><09>\n\n<1B>要是全部猜中，\n\n就很厲害了呢！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bb3bbb6d2da2dbd7a0a0a20319d8d668720339d8d7f9b20666989791d090a0a1b339d8d7f9b0a0a20866f636c756871ac20626975627986211d090a0a1b968d9f206170af70870a0a20bde2b28d98699c78211d09",
+      "pointerOffsets": [
+        1454984
+      ]
+    },
+    {
+      "offset": "1631f1",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>\n\n查看了旗子！<09>\n\n竟然！\n\n找到一張祭典卡片！<09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105827a0a0a7a7060206c87a07021090a0a758d74210a0a657f7288b62dec6020807269702109",
+      "pointerOffsets": [
+        1454628
+      ]
+    },
+    {
+      "offset": "1638d0",
+      "translation": "民宅3",
+      "status": "translated-draft",
+      "sourceHex": "808d6633",
+      "pointerOffsets": [
+        1314528
+      ]
+    },
+    {
+      "offset": "1638f4",
+      "translation": "快步仙人的草庵",
+      "status": "translated-draft",
+      "sourceHex": "7a84616c059d058f79626588",
+      "pointerOffsets": [
+        1247136,
+        1313848
+      ]
+    },
+    {
+      "offset": "163931",
+      "translation": "獎盃室2",
+      "status": "translated-draft",
+      "sourceHex": "c4dbccf82d05a705a832",
+      "pointerOffsets": [
+        1313988
+      ]
+    },
+    {
+      "offset": "16396e",
+      "translation": "澡堂",
+      "status": "translated-draft",
+      "sourceHex": "6e8d7463",
+      "pointerOffsets": [
+        1314108
+      ]
+    },
+    {
+      "offset": "163983",
+      "translation": "輝夜姬的房間",
+      "status": "translated-draft",
+      "sourceHex": "669084058d797d84",
+      "pointerOffsets": [
+        1314248
+      ]
+    },
+    {
+      "offset": "1639b4",
+      "translation": "啟程村",
+      "status": "translated-draft",
+      "sourceHex": "709e9871790592",
+      "pointerOffsets": [
+        1247076,
+        1313228
+      ]
+    },
+    {
+      "offset": "1639bc",
+      "translation": "喀嚓喀嚓村",
+      "status": "translated-draft",
+      "sourceHex": "b6c1b6c1790592",
+      "pointerOffsets": [
+        1247080,
+        1313248
+      ]
+    },
+    {
+      "offset": "163a06",
+      "translation": "兔龜村",
+      "status": "translated-draft",
+      "sourceHex": "b3bbb6d2790592",
+      "pointerOffsets": [
+        1247124,
+        1313428
+      ]
+    },
+    {
+      "offset": "163a2d",
+      "translation": "兄弟洞窟",
+      "status": "translated-draft",
+      "sourceHex": "67ae639862799c636872",
+      "pointerOffsets": [
+        1247152,
+        1313668,
+        1313688,
+        1313708,
+        1313728,
+        1313748,
+        1313768
+      ]
+    },
+    {
+      "offset": "163aeb",
+      "translation": "買面具\n賣面具\n離開商店",
+      "status": "translated-draft",
+      "sourceHex": "6505a96066630a6505a96063890a05a2609b89",
+      "pointerOffsets": [
+        40272,
+        40660
+      ]
+    },
+    {
+      "offset": "163c26",
+      "translation": "撈金魚",
+      "status": "translated-draft",
+      "sourceHex": "678d8fae6d6862",
+      "pointerOffsets": [
+        1473924
+      ]
+    },
+    {
+      "offset": "163c35",
+      "translation": "打鬼",
+      "status": "translated-draft",
+      "sourceHex": "b5c6707067",
+      "pointerOffsets": [
+        1473932
+      ]
+    },
+    {
+      "offset": "163c3b",
+      "translation": "咚咚搗麻糬",
+      "status": "translated-draft",
+      "sourceHex": "83717267a5af708d6a",
+      "pointerOffsets": [
+        1473936
+      ]
+    },
+    {
+      "offset": "163c56",
+      "translation": "風箏飛呀飛！",
+      "status": "translated-draft",
+      "sourceHex": "706a706a618e8a21",
+      "pointerOffsets": [
+        1473948
+      ]
+    },
+    {
+      "offset": "163c66",
+      "translation": "福笑拼臉",
+      "status": "translated-draft",
+      "sourceHex": "7c688c8762",
+      "pointerOffsets": [
+        1473956
+      ]
+    },
+    {
+      "offset": "163c96",
+      "translation": "喀嚓喀嚓大賽跑",
+      "status": "translated-draft",
+      "sourceHex": "b6c1b6c105b3da2dbd",
+      "pointerOffsets": [
+        1473980
+      ]
+    },
+    {
+      "offset": "163d07",
+      "translation": "問答鬼",
+      "status": "translated-draft",
+      "sourceHex": "b8b2e579b5c6",
+      "pointerOffsets": [
+        1474028
+      ]
+    },
+    {
+      "offset": "163d1d",
+      "translation": "都城GO！",
+      "status": "translated-draft",
+      "sourceHex": "80846a9b474f21",
+      "pointerOffsets": [
+        1474040
+      ]
+    },
+    {
+      "offset": "163d4f",
+      "translation": "<09>在這裡可以\n\n玩<FMT:%s>喔！<09>",
+      "status": "translated-draft",
+      "sourceHex": "096a6a9b7a2025738e0a0a70796c827f6d862109",
+      "pointerOffsets": [
+        253876,
+        254376
+      ],
+      "formatEvidence": {
+        "sourceFormats": [
+          "<FMT:%s>"
+        ],
+        "pointerOffsets": [
+          253876,
+          254376
+        ],
+        "maximumExpansionVerified": true,
+        "previousBlockReason": "原 ROM sourceHex、NUL 邊界及完整指標清單已核對；格式依原順序為 <FMT:%s>。字串參數最大編碼長度、可見寬度、內含換行/控制碼及格式化緩衝區的呼叫點證據尚缺，無法保證展開後 <=680 bytes、每行 <=24 欄。%6s/%9s 等欄寬只是最小寬度，不是長度上限；不改 source args、不刪參數、不以靜態字數冒充安全證明。保留完整譯文、來源及指標。",
+        "engineValidation": "Current validateDialogueEntry strict check passed with all owned translated drafts selected; original-ROM hash, caller pointer inventory, finite argument pools and translated name variants validated by boundedStringArguments.",
+        "argumentBounds": [
+          {
+            "variants": 37,
+            "maxEncodedBytes": 24,
+            "maxVisibleColumns": 8,
+            "maxFormatterMeasuredLength": 24
+          }
+        ],
+        "gameplayVerified": false,
+        "previousRequirement": "Per-call-site argument provenance, maximum encoded length and visible width, newline/control behavior, and total buffer bound."
+      }
+    },
+    {
+      "offset": "163e1d",
+      "translation": "眉毛",
+      "status": "translated-draft",
+      "sourceHex": "7f8591",
+      "pointerOffsets": [
+        1261172
+      ]
+    },
+    {
+      "offset": "163e80",
+      "translation": "猴子",
+      "status": "translated-draft",
+      "sourceHex": "bbd9",
+      "pointerOffsets": [
+        310928,
+        1320016
+      ]
+    },
+    {
+      "offset": "163e94",
+      "translation": "窮神大王",
+      "status": "translated-draft",
+      "sourceHex": "b7dde0f1ddee2d",
+      "pointerOffsets": [
+        310944
+      ]
+    },
+    {
+      "offset": "163ec0",
+      "translation": "兔子",
+      "status": "translated-draft",
+      "sourceHex": "b3bbdf",
+      "pointerOffsets": [
+        103560
+      ]
+    },
+    {
+      "offset": "163ed2",
+      "translation": "飯糰村村長",
+      "status": "translated-draft",
+      "sourceHex": "65816d9e059279059205a0",
+      "pointerOffsets": [
+        1319980
+      ]
+    },
+    {
+      "offset": "164008",
+      "translation": "<09><KANJI:80><KANJI:81><KANJI:82>，太好了！\n\n段位提升了！<09>\n\n保持這股勁，\n\n繼續加油吧！<09>",
+      "status": "translated-draft",
+      "sourceHex": "090580058105826b8d2084887f6c7078210a0a059405958e20618e887f6c70862121090a0a6a7971ae636c9b0a0a8e8d9d887f6cae63782109",
+      "pointerOffsets": [
+        259456
+      ]
+    },
+    {
+      "offset": "16419a",
+      "translation": "<09>桃子拼圖玩法\n\n <09>\n\n基本上就是十五格滑塊拼圖！\n\n <09>\n\n請把游標移到\n\n想移動的拼圖上！<09>\n\n如果拼圖的直行或橫列有空位，\n\n就按下A鍵！<09>\n\n這樣拼圖就會\n\n移往空出的位置！<09>\n\n移動拼圖，\n\n把圖案拼完整吧！<09>\n\n想中途離開時，\n\n請按暫停鍵喔！<09>",
+      "status": "translated-draft",
+      "sourceHex": "090580f2e5d97920616f9e66700a0a20090a0a677e8d736776203135f2e5d99b6d210a0a20090a0a6392666c706220f2c8d9760a0ab62dbfd96020618c6e732068986b6221090a0af2c8d9792070736620866a79208a728e0a0a6162736270872041f1c0dd6020656c7f6d21090a0a6d8974206162736289209d6cae760a0af2c8d98e206392677f6d21090a0af2c8d960206392666c730a0a646020668d6e626b6e7f6cae6321090a0a7471ad639b208482706274677a0a0af62de5f1c0dd6020656c7368986b62782109",
+      "pointerOffsets": [
+        51928
+      ]
+    },
+    {
+      "offset": "16491b",
+      "translation": "<09><1B>吱！吱！<1D>\n\n <09>\n\n<1B>從下一題起，\n\n我這隻猴子也要加入了！<1D><09>\n\n<1B>只要找到我，\n\n就能得到260分！<1D><09>\n\n<1B>我的動作很快，\n\n要好<0E>好盯緊我喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bb7fcff2120b7fcff211d0a0a20090a0a1b728f7920838d9862668720bbd9790a0a208c706c8e2075667f6288206c7f6d211d090a0a1b8c706c602080726989740a0a20323630059f207a62887f6d211d090a0a1b8c706c7a206d9d846820639268799b0a0a20860e6820829b2065af7368986b6278211d09",
+      "pointerOffsets": [
+        310984
+      ]
+    },
+    {
+      "offset": "164c7d",
+      "translation": "<09><1B>嘿！嘿！嘿！<1D>\n\n <09>\n\n<1B>大家都\n\n玩得很開心嘛！<1D><09>\n\n<1B>下次起，本天邪鬼\n\n也來參一腳吧！<1D><09>\n\n<1B>嗯？你問找到我\n\n能得到幾分？<1D><09>\n\n<1B>嘿！嘿！\n\n那種事我怎麼知道！<1D><09>\n\n<1B>猜中之後就知道啦！<1D>\n\n <09>\n\n<1B>那麼，\n\n你就好好加油吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bcdb22120cdb22120cdb2211d0a0a20090a0a1b808d752070796c6f63760a0a20616f8d9b628975211d090a0a1b617f7994ac687920b5da830a0a20728f6687206b8d66206c73848997211d090a0a1b8d3f20b5da602080726970870a0a20758d059f207a628966af733f1d090a0a1bcdb22120cdb2210a0a206f8d756a7420b5da7a206c87756278211d090a0a1b617373668779206570796c8098211d0a0a20090a0a1b6f8a94ac0a0a206e629662208e8d9d898d9875211d09",
+      "pointerOffsets": [
+        311004
+      ]
+    },
+    {
+      "offset": "1651fb",
+      "translation": "<09>加油，把臉拼得\n\n和這張一模一樣吧！<09>",
+      "status": "translated-draft",
+      "sourceHex": "096a7966657420bfffb8d87675898663760a0a8e8d9daf7368986b62782109",
+      "pointerOffsets": [
+        89716
+      ]
+    },
+    {
+      "offset": "1652ab",
+      "translation": "<09>接下來是左眼！\n\n它彷彿在說：看著我的眼睛<0E>！<09>",
+      "status": "translated-draft",
+      "sourceHex": "096b877620729a62732005897920829b6d210a0a658a7920826020808b0e207462af737f6d2109",
+      "pointerOffsets": [
+        311588
+      ]
+    },
+    {
+      "offset": "16538b",
+      "translation": "<09>咦，這是什麼？三角形的布？\n\n就是戴在頭上的那個嘛！<09>",
+      "status": "translated-draft",
+      "sourceHex": "096584206a8a7a3f206b8d66687977793f0a0a61707f76207269736289b1da9b6d78212109",
+      "pointerOffsets": [
+        311612
+      ]
+    },
+    {
+      "offset": "165445",
+      "translation": "<09>接下來是右耳！\n\n絕不會漏聽金錢的聲音！<09>",
+      "status": "translated-draft",
+      "sourceHex": "096b877620728f7a20058a792080809b6d210a0a65059a792065747a206767798e6c7f6e8d2109",
+      "pointerOffsets": [
+        311632
+      ]
+    },
+    {
+      "offset": "16552c",
+      "translation": "<09>好！接下來是左眼！\n\n別弄成下垂眼喔！<09>",
+      "status": "translated-draft",
+      "sourceHex": "097a622120728f7a2005897920829b6d210a0ac0da8276206c75629b68986b62782109",
+      "pointerOffsets": [
+        311656
+      ]
+    },
+    {
+      "offset": "165607",
+      "translation": "<09>好<0E>了，完成了！\n\n究竟拼成了什麼樣的臉呢？<09>\n\n來，看看吧！\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "096b0e73209b67618e887f6c7086210a0a9c8d75206665762075af709b6cae63663f090a0a6b61208073807f6cae6321210a0a2009",
+      "pointerOffsets": [
+        89744
+      ]
+    },
+    {
+      "offset": "165aa9",
+      "translation": "<KANJI:80><KANJI:81><KANJI:82>！還有拼圖\n\n沒有確定好位置喔！",
+      "status": "translated-draft",
+      "sourceHex": "0580058105826b8d212069af73626c736275620a0af2c8d98e2061887f6d8621",
+      "pointerOffsets": [
+        112312
+      ]
+    },
+    {
+      "offset": "165c0f",
+      "translation": "<09>太好了！\n\n<KANJI:80><KANJI:81><KANJI:82>贏了！<09>",
+      "status": "translated-draft",
+      "sourceHex": "0984887f6c7078210a0a0580058105826b8d792066719b6d2109",
+      "pointerOffsets": [
+        92136
+      ]
+    },
+    {
+      "offset": "165c2a",
+      "translation": "<09>真可惜，\n\n<KANJI:80><KANJI:81><KANJI:82>輸了<0D><09>",
+      "status": "translated-draft",
+      "sourceHex": "09938d788d9b6d8e0a0a0580058105826b8d79207f699b6d0d09",
+      "pointerOffsets": [
+        92184
+      ]
+    },
+    {
+      "offset": "165c97",
+      "translation": "<09>就差一點呢！\n\n這場比賽平手！<09>\n\n差一點就能刷新紀錄了！\n\n下次再加油吧！<09>",
+      "status": "translated-draft",
+      "sourceHex": "09656c66af709b6d78210a0a6cae639f7a207b678c699b6d21090a0a83636d6a6c9b206c8d678b689b6d210a0a9466627a208e8d9daf7368986b62782109",
+      "pointerOffsets": [
+        92284
+      ]
+    },
+    {
+      "offset": "165ecb",
+      "translation": "<09>那麼，遊戲開始！\n\n <09>",
+      "status": "translated-draft",
+      "sourceHex": "099b7a20e12dd1bdc02dc49b6d210a0a2009",
+      "pointerOffsets": [
+        136792
+      ]
+    },
+    {
+      "offset": "165f1a",
+      "translation": "<09>下一題來了！\n\n要仔<0E>細睜大眼睛看喔！<09>",
+      "status": "translated-draft",
+      "sourceHex": "09728f2062677f6d210a0a860e68208260206a876c7368986b62782109",
+      "pointerOffsets": [
+        140404
+      ]
+    },
+    {
+      "offset": "16613a",
+      "translation": "<09><1B>連我都贏不了的話，\n\n可創不出好紀錄呀，柿！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bb5b2d7762066737562866394ac0a0a206262678b687a209b7562b6b72dff211d09",
+      "pointerOffsets": [
+        145948
+      ]
+    },
+    {
+      "offset": "166194",
+      "translation": "<09>就差一點呢！\n\n這場比賽平手！<09>",
+      "status": "translated-draft",
+      "sourceHex": "09656c66af709b6d78210a0a6cae639f7a207b678c699b6d2109",
+      "pointerOffsets": [
+        146080
+      ]
+    },
+    {
+      "offset": "1662e2",
+      "translation": "<09><1B><KANJI:80><KANJI:81><KANJI:82>這次旅行\n\n走了<FMT:%d>步，對吧？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b0580058105826b8d7a206a8d66627920709e9b0a0a202564a6206189677f6c70783f1d09",
+      "pointerOffsets": [
+        153980
+      ]
+    },
+    {
+      "offset": "166352",
+      "translation": "<09><1B>在<FMT:%s>中，\n\n<KANJI:80><KANJI:81><KANJI:82>是<FMT:%d>段，對吧？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b25739b0a0a200580058105826b8d7a2025640594209b6d86783f1d09",
+      "pointerOffsets": [
+        154296
+      ],
+      "formatEvidence": {
+        "sourceFormats": [
+          "<FMT:%s>",
+          "<FMT:%d>"
+        ],
+        "pointerOffsets": [
+          154296
+        ],
+        "maximumExpansionVerified": true,
+        "previousBlockReason": "原 ROM sourceHex、NUL 邊界及完整指標清單已核對；格式依原順序為 <FMT:%s> <FMT:%d>。字串參數最大編碼長度、可見寬度、內含換行/控制碼及格式化緩衝區的呼叫點證據尚缺，無法保證展開後 <=680 bytes、每行 <=24 欄。%6s/%9s 等欄寬只是最小寬度，不是長度上限；不改 source args、不刪參數、不以靜態字數冒充安全證明。保留完整譯文、來源及指標。",
+        "engineValidation": "Current validateDialogueEntry strict check passed with all owned translated drafts selected; original-ROM hash, caller pointer inventory, finite argument pools and translated name variants validated by boundedStringArguments.",
+        "argumentBounds": [
+          {
+            "variants": 37,
+            "maxEncodedBytes": 24,
+            "maxVisibleColumns": 8,
+            "maxFormatterMeasuredLength": 24
+          }
+        ],
+        "gameplayVerified": false,
+        "previousRequirement": "Per-call-site argument provenance, maximum encoded length and visible width, newline/control behavior, and total buffer bound."
+      }
+    },
+    {
+      "offset": "16642c",
+      "translation": "<09><1B><KANJI:80><KANJI:81><KANJI:82>的錢包裡\n\n有<FMT:%d><KANJI:8B>，對吧？<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b0580058105826b8d7920656b627c767a0a0a202564058b207a62af737f6d783f1d09",
+      "pointerOffsets": [
+        154988
+      ]
+    },
+    {
+      "offset": "16651a",
+      "translation": "<09>咆哮吧！<KANJI:9A><KANJI:81><KANJI:82>拳玩法\n\n <09>\n\n<1B><KANJI:80><KANJI:81><KANJI:82>！在岩石前\n\n連按A鍵！<1D><09>\n\n<1B>就能敲打岩石了！<1D>\n\n <09>\n\n<1B>每塊岩石的硬度都不一樣！<1D>\n\n <09>\n\n<1B>有軟的岩石，\n\n也有硬的岩石！<1D><09>\n\n<1B>還有一敲就滾動，\n\n或是會爆炸的岩石喔！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "0963758a21059a05810582698d7920616f9e66700a0a20090a0a1b628c79207f649b2041f1c0dd60200a0a208a8d986d898d9820058005810582211d090a0a1b628c6020707069899c211d0a0a20090a0a1b628c792066706b7a20edd7edd7211d0a0a20090a0a1b848c87666220628c840a0a2066706220628c83206189211d090a0a1b70706874206a8b8e8920628c840a0a209d687a726d8920628c832061899c211d09",
+      "pointerOffsets": [
+        188240
+      ]
+    },
+    {
+      "offset": "166b37",
+      "translation": "<09><1B><KANJI:B6><KANJI:B7><KANJI:8D>小姐！\n\n請擲骰子啦！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b05b605b7058dbbdd210a0a206b626a8b20ccd9b1d9c8211d09",
+      "pointerOffsets": [
+        314000
+      ]
+    },
+    {
+      "offset": "166cc3",
+      "translation": "<09><1B>大家所在的位置，\n\n全部打亂啦<0E>！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bd0c5bbddde20b2d9edbcfe0a0a20e2c1fccfe620b1d9d60e211d09",
+      "pointerOffsets": [
+        314016
+      ]
+    },
+    {
+      "offset": "166ea7",
+      "translation": "<09>風箏飛呀飛！玩法\n\n <09>\n\n用方向鍵操縱風箏，\n\n不斷往上飛吧！<09>\n\n取得桃子圖案，\n\n就能得分！<09>\n\n撞到妨礙你的角色，\n\n就算失誤一次！<09>\n\n失誤三次，\n\n遊戲就結束了！<09>\n\n朝著兔子等候的月亮，\n\n努力前進吧！<09>",
+      "status": "translated-draft",
+      "sourceHex": "09706a706a618e8a217920616f9e66700a0a20090a0a706a602005900591f1c0dd9b20618472880a0a05877d2005877d74206d6d807f6cae6321090a0a0580cf2db86020748a9d0a0a7468059f8e208387647f6d21090a0a6594ac7fb7fcd776209f726689740a0ad0bd762075887f6d21090a0a33059e20d0bd6d89740a0ae12dd1b52ded2d9b6d21090a0ab3bbdf6b8d8e207faf7362890a0a05ac82936c73208e8d9daf7368986b622109",
+      "pointerOffsets": [
+        119860
+      ]
+    },
+    {
+      "offset": "16731f",
+      "translation": "<1B>只有那傢伙，\n\n我絕對不會輸給他！<1D>",
+      "status": "translated-draft",
+      "sourceHex": "1bb1b2c29869767a0a0a207f697f6e8d86211d",
+      "pointerOffsets": [
+        315692
+      ]
+    },
+    {
+      "offset": "16739f",
+      "translation": "<1B>我一定會有精彩表現！\n\n請好好看著吧！<1D>",
+      "status": "translated-draft",
+      "sourceHex": "1b6675879520806e9d60207268887f6d210a0a208073627368986b6278211d",
+      "pointerOffsets": [
+        315712
+      ]
+    },
+    {
+      "offset": "167417",
+      "translation": "<1B><KANJI:80><KANJI:81><KANJI:82>的狀態\n\n似乎比平常更好呢！<1D>",
+      "status": "translated-draft",
+      "sourceHex": "1b0580058105826b8d2062728386880a0a2071ae636c8e20866b6f639b6d211d",
+      "pointerOffsets": [
+        315728
+      ]
+    },
+    {
+      "offset": "167513",
+      "translation": "<1B>總覺得\n\n有點不舒服呢<0D><1D>",
+      "status": "translated-draft",
+      "sourceHex": "1b758d6620679f8d8e0a0a208c89628d9b6d860d1d",
+      "pointerOffsets": [
+        315768
+      ]
+    },
+    {
+      "offset": "1675c0",
+      "translation": "<1B>身體\n\n使不上力氣<0D><1D>",
+      "status": "translated-draft",
+      "sourceHex": "1b66879876207166878e0a0a207a62887f6e8d0d1d",
+      "pointerOffsets": [
+        315796
+      ]
+    },
+    {
+      "offset": "16765f",
+      "translation": "<1B><0D>唉<0E>\n\n真不想跑步啊。<1D>",
+      "status": "translated-draft",
+      "sourceHex": "1b0d7aa70e0a0a2062849875a7207a6c89791d",
+      "pointerOffsets": [
+        315824
+      ]
+    },
+    {
+      "offset": "1677b8",
+      "translation": "想回到那個時候",
+      "status": "translated-draft",
+      "sourceHex": "61796a8b7620839c887062",
+      "pointerOffsets": [
+        1271432
+      ]
+    },
+    {
+      "offset": "1677d1",
+      "translation": "想要熱烈的友情<0D>",
+      "status": "translated-draft",
+      "sourceHex": "61726220856394ae63600d",
+      "pointerOffsets": [
+        1271440
+      ]
+    },
+    {
+      "offset": "167841",
+      "translation": "<09><1B>熱？既然這麼熱，\n\n就讓你的荷包涼快一下吧！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091b6172623f206f8d75762061726275870a0a207c746a8b60206b81686c73848b63211d09",
+      "pointerOffsets": [
+        54624
+      ]
+    },
+    {
+      "offset": "167882",
+      "translation": "<09><1B>嘿！嘿！你現在\n\n就已經夠輕盈了！<1D><09>\n\n<1B>重選別的願望吧，\n\n<KANJI:80><KANJI:81><KANJI:82>！<1D><09>",
+      "status": "translated-draft",
+      "sourceHex": "091bcdb22120cdb22120627f9b830a0a2094ad639f8d20808e899897211d090a0a1b7e667920799780600a0a2064879e75656c7520058005810582211d09",
+      "pointerOffsets": [
+        54524
+      ]
+    }
+  ],
+  "integrationReview": {
+    "scope": "Owned full-01..08 corpus only; original sources and pointer inventories unchanged.",
+    "entries": 283,
+    "translatedDraft": 276,
+    "blocked": 0,
+    "excludedNontext": 7,
+    "unresolvedBoundaryOffsets": [],
+    "unboundedStringOffsets": [],
+    "capacityRepairs": [
+      {
+        "offset": "14b15f",
+        "encodedBytes": 678
+      }
+    ],
+    "canonicalTerms": [
+      "喀嚓喀嚓村",
+      "啟程村",
+      "黍米糰子",
+      "狀態",
+      "儲存"
+    ],
+    "retainedKanjiTokens": "Native ROM glyph tokens remain where names/readings have not been independently identified; this is not a claim of complete prose/name localization.",
+    "gameplayVerified": false,
+    "retainedKanaOffsets": [],
+    "recordsRetainingNativeKanji": 135,
+    "boundedStringOffsets": [
+      "132cfc",
+      "132f27",
+      "1362ab",
+      "136337",
+      "163d4f",
+      "166352"
+    ],
+    "reviewedSuffixOffsets": [
+      "131000",
+      "13306c",
+      "16201f",
+      "162227",
+      "162432"
+    ],
+    "reviewedNameOffsets": [
+      "14a5e8",
+      "14ab34",
+      "14fb91"
+    ],
+    "finalCorpusAudit": {
+      "scope": "Source/translation queries across all eight owned shards: repeated phrases, item names, game names, character/place names, numeric differences, kana, controls, literal newlines and quotes. Not an in-game review or a claim of final literary proofreading.",
+      "translationModifications": 13,
+      "excludedFromEdits": [
+        "161f20",
+        "167808"
+      ],
+      "controlsNewlinesAndQuotesPreservedInEdits": true,
+      "retainedKanaOffsets": [],
+      "literalNewlineErrors": 0,
+      "newlineExceptions": [],
+      "nativeKanjiPolicy": "Retained original Japanese kanji glyphs are acceptable where Traditional Chinese uses the same characters; not counted as residual kana. Uncertain independent source meaning remains explicitly blocked.",
+      "validation": "node --test tools/rom.test.mjs: 41 passed; node tools/build-dialogue.mjs --full --check: zero errors; no build."
+    }
+  }
+}
