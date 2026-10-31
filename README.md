@@ -1,5 +1,28 @@
 # Momotarou Matsuri: Traditional Chinese Translation
 
+![Cover](assets/cover.png)
+
+![Marquee](assets/momotarou-zh-Hant-marquee.png)
+
+## Release
+
+Download [momotarou-zh-Hant.ips](https://github.com/yuleshow/GBA-TW-Momotarou-Matsuri/releases/latest/download/momotarou-zh-Hant.ips) and apply it to the original Japanese **Momotarou Matsuri** ROM.
+
+- Original ROM: `0023 - Momotarou Matsuri (J)(Rapid Fire).gba`
+- Original ROM CRC32: `BF0523D1`
+- Original ROM SHA-256: `938fa27a934ac3f4fa93d4d9e49bd538c2fb41040d0f7a8b2de6343a406f82d3`
+- Patched ROM SHA-256: `1de651d86629da993d1a0760de36c62bb75a4634ae024a7c062a42e21f0f39b5`
+- IPS SHA-256: `5cb29a1eacfd731e513768e78250b7d2cd81dbd41c2f4d7c2b10f2ab84d91f98`
+
+The patch produces an 8 MiB GBA ROM and has been verified with the IPS roundtrip against the original release ROM.
+
+### Screenshots
+
+![Shop](assets/screenshots/momotarou-zh-Hant-261031-140758.png)
+![Shop inventory](assets/screenshots/momotarou-zh-Hant-261031-140818.png)
+![Shopping dialogue](assets/screenshots/momotarou-zh-Hant-261031-140854.png)
+![Shop result](assets/screenshots/momotarou-zh-Hant-261031-141022.png)
+
 ## Installed I Font Trial: 11 Hand-Edited Glyphs
 
 Checkpoint **HTYU** resumes with the selected I sample: **11 hand-edited 8x8 glyphs**, with the other 1,847 supplemental G glyphs and every original Japanese glyph unchanged. This is a partial trial, not a complete redesigned font. [Comparison](build/font-comparison-hand-dialogue.png), [ROM](build/score-fix-hand-I-TAXO6E/momotarou-zh-Hant.gba), [IPS](build/score-fix-hand-I-TAXO6E/momotarou-zh-Hant.ips), [manifest](build/score-fix-hand-I-TAXO6E/momotarou-zh-Hant.json), [font notices](build/score-fix-hand-I-TAXO6E/momotarou-zh-Hant-font-licenses.txt). ROM SHA-256: `13af30e9dbd7c1b9bdf1565198a96890b71203ad3ad0387346b236c183eb1e89`.
